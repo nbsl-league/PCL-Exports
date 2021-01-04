@@ -1,0 +1,9017 @@
+﻿{
+  "version": 40,
+  "players": [
+    {
+      "born": {
+        "year": 2035,
+        "loc": "New York"
+      },
+      "college": "Connecticut",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 60,
+        "ovr": 42,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.84,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#aa816f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.2
+        },
+        "head": {
+          "id": "head2",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line4"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.93
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "mustache-thin"
+        },
+        "eye": {
+          "id": "eye5",
+          "angle": 12
+        },
+        "eyebrow": {
+          "id": "eyebrow2",
+          "angle": 4
+        },
+        "hair": {
+          "id": "crop",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile2",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": true,
+          "size": 1.03
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Charlie",
+      "hgt": 83,
+      "imgURL": "https://www.basketball-reference.com/req/202012011/images/players/villach01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Villanueva",
+      "pid": 7801,
+      "ratings": [
+        {
+          "stre": 48,
+          "spd": 36,
+          "jmp": 43,
+          "endu": 51,
+          "ins": 41,
+          "dnk": 50,
+          "ft": 51,
+          "fg": 51,
+          "tp": 50,
+          "oiq": 41,
+          "diq": 35,
+          "drb": 30,
+          "pss": 29,
+          "reb": 49,
+          "hgt": 65,
+          "fuzz": -0.6190984840994193,
+          "ovr": 42,
+          "pos": "PF",
+          "pot": 60,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 232
+    },
+    {
+      "born": {
+        "year": 2033,
+        "loc": "Wisconsin"
+      },
+      "college": "Marquette",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 52,
+        "ovr": 43,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.99,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#74453d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.07
+        },
+        "head": {
+          "id": "head8",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.74
+        },
+        "miscLine": {
+          "id": "forehead3"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye6",
+          "angle": 11
+        },
+        "eyebrow": {
+          "id": "eyebrow8",
+          "angle": -8
+        },
+        "hair": {
+          "id": "afro",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": true,
+          "size": 0.73
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Travis",
+      "hgt": 73,
+      "imgURL": "https://i.imgur.com/yFCRsgz.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Diener",
+      "pid": 7802,
+      "pos": "PG",
+      "ratings": [
+        {
+          "stre": 38,
+          "spd": 52,
+          "jmp": 45,
+          "endu": 56,
+          "ins": 25,
+          "dnk": 44,
+          "ft": 60,
+          "fg": 56,
+          "tp": 52,
+          "oiq": 46,
+          "diq": 38,
+          "drb": 59,
+          "pss": 46,
+          "reb": 38,
+          "hgt": 33,
+          "fuzz": 0.4020269883698266,
+          "ovr": 43,
+          "pos": "PG",
+          "pot": 52,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 175
+    },
+    {
+      "born": {
+        "year": 2035,
+        "loc": "Australia"
+      },
+      "college": "Utah",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 64,
+        "ovr": 50,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.33,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#bb876f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.19
+        },
+        "head": {
+          "id": "head1",
+          "shave": "rgba(0,0,0,0.16)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.29
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "goatee4"
+        },
+        "eye": {
+          "id": "eye6",
+          "angle": -6
+        },
+        "eyebrow": {
+          "id": "eyebrow5",
+          "angle": 0
+        },
+        "hair": {
+          "id": "short-fade",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "angry",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose8",
+          "flip": false,
+          "size": 0.55
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Andrew",
+      "hgt": 84,
+      "imgURL": "https://www.basketball-reference.com/req/202012011/images/players/bogutan01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Bogut",
+      "pid": 7803,
+      "pos": "C",
+      "ratings": [
+        {
+          "stre": 62,
+          "spd": 48,
+          "jmp": 54,
+          "endu": 43,
+          "ins": 48,
+          "dnk": 55,
+          "ft": 31,
+          "fg": 38,
+          "tp": 25,
+          "oiq": 36,
+          "diq": 47,
+          "drb": 41,
+          "pss": 48,
+          "reb": 62,
+          "hgt": 63,
+          "fuzz": 0.809437559677074,
+          "ovr": 50,
+          "pos": "C",
+          "pot": 64,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 260
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Illinois"
+      },
+      "college": "Oklahoma State",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 61,
+        "ovr": 50,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.94,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ce967d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.09
+        },
+        "head": {
+          "id": "head6",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line4"
+        },
+        "smileLine": {
+          "id": "line3",
+          "size": 0.6
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": 9
+        },
+        "eyebrow": {
+          "id": "eyebrow1",
+          "angle": -1
+        },
+        "hair": {
+          "id": "parted",
+          "color": "#423125",
+          "flip": false
+        },
+        "mouth": {
+          "id": "side",
+          "flip": false
+        },
+        "nose": {
+          "id": "honker",
+          "flip": false,
+          "size": 0.5
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Tony",
+      "hgt": 76,
+      "imgURL": "https://www.basketball-reference.com/req/202011191/images/players/allento01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Allen",
+      "pid": 7804,
+      "pos": "G",
+      "ratings": [
+        {
+          "stre": 51,
+          "spd": 63,
+          "jmp": 50,
+          "endu": 59,
+          "ins": 45,
+          "dnk": 56,
+          "ft": 41,
+          "fg": 40,
+          "tp": 40,
+          "oiq": 34,
+          "diq": 56,
+          "drb": 45,
+          "pss": 33,
+          "reb": 42,
+          "hgt": 44,
+          "fuzz": -0.27315847757845857,
+          "ovr": 50,
+          "pos": "G",
+          "pot": 61,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 213
+    },
+    {
+      "born": {
+        "year": 2033,
+        "loc": "Connecticut"
+      },
+      "college": "Providence",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 56,
+        "ovr": 43,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.95,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#bb876f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.94
+        },
+        "head": {
+          "id": "head8",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line2"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.25
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "goatee5"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": 11
+        },
+        "eyebrow": {
+          "id": "eyebrow5",
+          "angle": 10
+        },
+        "hair": {
+          "id": "afro",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile2",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": false,
+          "size": 0.52
+        },
+        "glasses": {
+          "id": "glasses1-primary"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Ryan",
+      "hgt": 79,
+      "imgURL": "https://www.basketball-reference.com/req/202012251/images/players/gomesry01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Gomes",
+      "pid": 7805,
+      "pos": "F",
+      "ratings": [
+        {
+          "stre": 52,
+          "spd": 50,
+          "jmp": 45,
+          "endu": 53,
+          "ins": 38,
+          "dnk": 53,
+          "ft": 54,
+          "fg": 39,
+          "tp": 51,
+          "oiq": 36,
+          "diq": 32,
+          "drb": 49,
+          "pss": 42,
+          "reb": 61,
+          "hgt": 48,
+          "fuzz": -1.2071918929816807,
+          "ovr": 43,
+          "pos": "F",
+          "pot": 56,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 250
+    },
+    {
+      "born": {
+        "year": 2033,
+        "loc": "Delaware"
+      },
+      "college": "Oklahoma State",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 56,
+        "ovr": 43,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.53,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#aa816f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.95
+        },
+        "head": {
+          "id": "head6",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line2"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.99
+        },
+        "miscLine": {
+          "id": "forehead5"
+        },
+        "facialHair": {
+          "id": "mustache-thin"
+        },
+        "eye": {
+          "id": "eye4",
+          "angle": 2
+        },
+        "eyebrow": {
+          "id": "eyebrow5",
+          "angle": 1
+        },
+        "hair": {
+          "id": "messy",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": false
+        },
+        "nose": {
+          "id": "honker",
+          "flip": false,
+          "size": 1.23
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "headband"
+        }
+      },
+      "firstName": "Joey",
+      "hgt": 79,
+      "imgURL": "https://www.basketball-reference.com/req/202101021/images/players/grahajo01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Graham",
+      "pid": 7806,
+      "pos": "SF",
+      "ratings": [
+        {
+          "stre": 46,
+          "spd": 48,
+          "jmp": 50,
+          "endu": 55,
+          "ins": 43,
+          "dnk": 51,
+          "ft": 57,
+          "fg": 46,
+          "tp": 43,
+          "oiq": 36,
+          "diq": 37,
+          "drb": 44,
+          "pss": 36,
+          "reb": 48,
+          "hgt": 50,
+          "fuzz": 0.6299656076213043,
+          "ovr": 43,
+          "pos": "SF",
+          "pot": 56,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 225
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Louisiana"
+      },
+      "college": "Duke",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 60,
+        "ovr": 44,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.09,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#aa816f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 1.22
+        },
+        "head": {
+          "id": "head3",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line3",
+          "size": 0.74
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye1",
+          "angle": -2
+        },
+        "eyebrow": {
+          "id": "eyebrow6",
+          "angle": 18
+        },
+        "hair": {
+          "id": "short3",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile2",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose6",
+          "flip": false,
+          "size": 0.89
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "headband-high"
+        }
+      },
+      "firstName": "Chris",
+      "hgt": 73,
+      "imgURL": "https://www.basketball-reference.com/req/202012011/images/players/duhonch01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Duhon",
+      "pid": 7807,
+      "pos": "PG",
+      "ratings": [
+        {
+          "stre": 27,
+          "spd": 54,
+          "jmp": 55,
+          "endu": 50,
+          "ins": 22,
+          "dnk": 23,
+          "ft": 52,
+          "fg": 50,
+          "tp": 53,
+          "oiq": 42,
+          "diq": 46,
+          "drb": 72,
+          "pss": 66,
+          "reb": 37,
+          "hgt": 28,
+          "fuzz": -0.22704474779964287,
+          "ovr": 44,
+          "pos": "PG",
+          "pot": 60,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 185
+    },
+    {
+      "born": {
+        "year": 2037,
+        "loc": "France"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 52,
+        "ovr": 28,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.51,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#f2d6cb"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 0.84
+        },
+        "head": {
+          "id": "head1",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.97
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "beard2"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": -4
+        },
+        "eyebrow": {
+          "id": "eyebrow3",
+          "angle": 6
+        },
+        "hair": {
+          "id": "middle-part",
+          "color": "#e9c67b",
+          "flip": false
+        },
+        "mouth": {
+          "id": "angry",
+          "flip": false
+        },
+        "nose": {
+          "id": "honker",
+          "flip": false,
+          "size": 0.93
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Johan",
+      "hgt": 84,
+      "imgURL": "https://www.basketball-reference.com/req/202101021/images/players/petrojo01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Petro",
+      "pid": 7808,
+      "pos": "C",
+      "ratings": [
+        {
+          "stre": 40,
+          "spd": 36,
+          "jmp": 41,
+          "endu": 53,
+          "ins": 31,
+          "dnk": 33,
+          "ft": 39,
+          "fg": 23,
+          "tp": 28,
+          "oiq": 19,
+          "diq": 24,
+          "drb": 22,
+          "pss": 21,
+          "reb": 53,
+          "hgt": 66,
+          "fuzz": -0.993524894013967,
+          "ovr": 28,
+          "pos": "C",
+          "pot": 52,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 247
+    },
+    {
+      "born": {
+        "year": 2037,
+        "loc": "New York"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 60,
+        "ovr": 36,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.93,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#74453d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.76
+        },
+        "head": {
+          "id": "head4",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line4",
+          "size": 1.16
+        },
+        "miscLine": {
+          "id": "forehead3"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye8",
+          "angle": -4
+        },
+        "eyebrow": {
+          "id": "eyebrow3",
+          "angle": -3
+        },
+        "hair": {
+          "id": "short-fade",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "closed",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": true,
+          "size": 0.99
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Andray",
+      "hgt": 83,
+      "imgURL": "https://www.basketball-reference.com/req/202012251/images/players/blatcan01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Blatche",
+      "pid": 7809,
+      "pos": "FC",
+      "ratings": [
+        {
+          "stre": 45,
+          "spd": 41,
+          "jmp": 44,
+          "endu": 50,
+          "ins": 43,
+          "dnk": 42,
+          "ft": 43,
+          "fg": 39,
+          "tp": 35,
+          "oiq": 28,
+          "diq": 25,
+          "drb": 39,
+          "pss": 36,
+          "reb": 49,
+          "hgt": 66,
+          "fuzz": 1.214458051357784,
+          "ovr": 36,
+          "pos": "FC",
+          "pot": 60,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 235
+    },
+    {
+      "born": {
+        "year": 2032,
+        "loc": "Washington, DC"
+      },
+      "college": "Michigan",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 52,
+        "ovr": 41,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.89,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ddb7a0"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.09
+        },
+        "head": {
+          "id": "head7",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 1.37
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "soul"
+        },
+        "eye": {
+          "id": "eye1",
+          "angle": -3
+        },
+        "eyebrow": {
+          "id": "eyebrow4",
+          "angle": 20
+        },
+        "hair": {
+          "id": "hair",
+          "color": "#D7BF91",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose3",
+          "flip": true,
+          "size": 0.78
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Bernard",
+      "hgt": 78,
+      "imgURL": "https://i.imgur.com/lkVJ01j.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Robinson",
+      "pid": 7810,
+      "pos": "GF",
+      "ratings": [
+        {
+          "stre": 41,
+          "spd": 54,
+          "jmp": 54,
+          "endu": 50,
+          "ins": 40,
+          "dnk": 45,
+          "ft": 52,
+          "fg": 41,
+          "tp": 30,
+          "oiq": 39,
+          "diq": 40,
+          "drb": 43,
+          "pss": 40,
+          "reb": 45,
+          "hgt": 45,
+          "fuzz": 0.965703570749718,
+          "ovr": 41,
+          "pos": "GF",
+          "pot": 52,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 210
+    },
+    {
+      "born": {
+        "year": 2035,
+        "loc": "Washington, DC"
+      },
+      "college": "Saint Joseph's",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 60,
+        "ovr": 44,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.3,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ad6453"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.19
+        },
+        "head": {
+          "id": "head2",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.27
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "goatee4"
+        },
+        "eye": {
+          "id": "eye3",
+          "angle": 10
+        },
+        "eyebrow": {
+          "id": "eyebrow3",
+          "angle": 13
+        },
+        "hair": {
+          "id": "cornrows",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile2",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": false,
+          "size": 0.78
+        },
+        "glasses": {
+          "id": "glasses2-black"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Delonte",
+      "hgt": 76,
+      "imgURL": "https://www.basketball-reference.com/req/202011101/images/players/westde01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "West",
+      "pid": 7811,
+      "pos": "G",
+      "ratings": [
+        {
+          "stre": 26,
+          "spd": 60,
+          "jmp": 43,
+          "endu": 50,
+          "ins": 30,
+          "dnk": 40,
+          "ft": 58,
+          "fg": 51,
+          "tp": 54,
+          "oiq": 40,
+          "diq": 33,
+          "drb": 61,
+          "pss": 53,
+          "reb": 38,
+          "hgt": 44,
+          "fuzz": -0.2801526621539381,
+          "ovr": 44,
+          "pos": "G",
+          "pot": 60,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 180
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Martinique"
+      },
+      "college": "Gonzaga",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 60,
+        "ovr": 44,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.12,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#a67358"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.05
+        },
+        "head": {
+          "id": "head7",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line1",
+          "size": 0.66
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye1",
+          "angle": 4
+        },
+        "eyebrow": {
+          "id": "eyebrow12",
+          "angle": -11
+        },
+        "hair": {
+          "id": "short3",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "mouth",
+          "flip": true
+        },
+        "nose": {
+          "id": "pinocchio",
+          "flip": true,
+          "size": 0.53
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Ronny",
+      "hgt": 82,
+      "imgURL": "https://www.basketball-reference.com/req/202012011/images/players/turiaro01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Turiaf",
+      "pid": 7812,
+      "pos": "C",
+      "ratings": [
+        {
+          "stre": 54,
+          "spd": 49,
+          "jmp": 49,
+          "endu": 56,
+          "ins": 44,
+          "dnk": 49,
+          "ft": 34,
+          "fg": 32,
+          "tp": 5,
+          "oiq": 39,
+          "diq": 45,
+          "drb": 40,
+          "pss": 40,
+          "reb": 48,
+          "hgt": 61,
+          "fuzz": 0.15482795895492393,
+          "ovr": 44,
+          "pos": "C",
+          "pot": 60,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 249
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Louisiana"
+      },
+      "college": "New Mexico",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 62,
+        "ovr": 54,
+        "skills": [
+          "3"
+        ]
+      },
+      "face": {
+        "fatness": 0.8,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#f2d6cb"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.91
+        },
+        "head": {
+          "id": "head2",
+          "shave": "rgba(0,0,0,0.12)"
+        },
+        "eyeLine": {
+          "id": "line6"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1
+        },
+        "miscLine": {
+          "id": "forehead2"
+        },
+        "facialHair": {
+          "id": "mustache-thin"
+        },
+        "eye": {
+          "id": "eye1",
+          "angle": 9
+        },
+        "eyebrow": {
+          "id": "eyebrow12",
+          "angle": -2
+        },
+        "hair": {
+          "id": "high",
+          "color": "#e9c67b",
+          "flip": true
+        },
+        "mouth": {
+          "id": "straight",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": true,
+          "size": 0.92
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Danny",
+      "hgt": 81,
+      "imgURL": "https://www.basketball-reference.com/req/202011101/images/players/grangda01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Granger",
+      "pid": 7813,
+      "ratings": [
+        {
+          "stre": 50,
+          "spd": 56,
+          "jmp": 62,
+          "endu": 45,
+          "ins": 35,
+          "dnk": 52,
+          "ft": 60,
+          "fg": 49,
+          "tp": 62,
+          "oiq": 46,
+          "diq": 35,
+          "drb": 52,
+          "pss": 38,
+          "reb": 43,
+          "hgt": 56,
+          "fuzz": 0.2902100547924728,
+          "ovr": 54,
+          "pos": "SF",
+          "pot": 62,
+          "season": 2056,
+          "skills": [
+            "3"
+          ]
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 222
+    },
+    {
+      "born": {
+        "year": 2037,
+        "loc": "USA"
+      },
+      "college": "Minnesota",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 42,
+        "ovr": 19,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.38,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#5c3937"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.13
+        },
+        "head": {
+          "id": "head7",
+          "shave": "rgba(0,0,0,0.04)"
+        },
+        "eyeLine": {
+          "id": "line4"
+        },
+        "smileLine": {
+          "id": "line3",
+          "size": 1.25
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye8",
+          "angle": -2
+        },
+        "eyebrow": {
+          "id": "eyebrow11",
+          "angle": 5
+        },
+        "hair": {
+          "id": "juice",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "mouth",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose8",
+          "flip": true,
+          "size": 0.73
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Cary",
+      "hgt": 76,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Johnson",
+      "pid": 7814,
+      "ratings": [
+        {
+          "stre": 47,
+          "spd": 34,
+          "jmp": 44,
+          "endu": 11,
+          "ins": 36,
+          "dnk": 39,
+          "ft": 28,
+          "fg": 31,
+          "tp": 32,
+          "oiq": 13,
+          "diq": 22,
+          "drb": 30,
+          "pss": 26,
+          "reb": 41,
+          "hgt": 36,
+          "fuzz": 1.0019146910177772,
+          "ovr": 19,
+          "pos": "SG",
+          "pot": 42,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 198
+    },
+    {
+      "born": {
+        "year": 2037,
+        "loc": "Minnesota"
+      },
+      "college": "Minnesota",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 61,
+        "ovr": 36,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.22,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#f2d6cb"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.9
+        },
+        "head": {
+          "id": "head6",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line5"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 1.33
+        },
+        "miscLine": {
+          "id": "chin1"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": -3
+        },
+        "eyebrow": {
+          "id": "eyebrow2",
+          "angle": 17
+        },
+        "hair": {
+          "id": "short-fade",
+          "color": "#2C1608",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose3",
+          "flip": true,
+          "size": 0.55
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Kris",
+      "hgt": 81,
+      "imgURL": "https://www.basketball-reference.com/req/202012011/images/players/humphkr01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Humphries",
+      "pid": 7815,
+      "ratings": [
+        {
+          "stre": 53,
+          "spd": 40,
+          "jmp": 44,
+          "endu": 52,
+          "ins": 51,
+          "dnk": 54,
+          "ft": 41,
+          "fg": 31,
+          "tp": 37,
+          "oiq": 28,
+          "diq": 31,
+          "drb": 34,
+          "pss": 32,
+          "reb": 61,
+          "hgt": 58,
+          "fuzz": -0.06670905631031897,
+          "ovr": 36,
+          "pos": "PF",
+          "pot": 61,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 235
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Illinois"
+      },
+      "college": "Cincinnati",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 56,
+        "ovr": 40,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.57,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ddb7a0"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.09
+        },
+        "head": {
+          "id": "head4",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line6"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.13
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye2",
+          "angle": 0
+        },
+        "eyebrow": {
+          "id": "eyebrow12",
+          "angle": 11
+        },
+        "hair": {
+          "id": "spike2",
+          "color": "#2C1608",
+          "flip": true
+        },
+        "mouth": {
+          "id": "straight",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": true,
+          "size": 0.56
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Jason",
+      "hgt": 79,
+      "imgURL": "https://www.basketball-reference.com/req/202012251/images/players/maxieja01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Maxiell",
+      "pid": 7816,
+      "pos": "FC",
+      "ratings": [
+        {
+          "stre": 61,
+          "spd": 51,
+          "jmp": 55,
+          "endu": 58,
+          "ins": 60,
+          "dnk": 63,
+          "ft": 31,
+          "fg": 35,
+          "tp": 5,
+          "oiq": 37,
+          "diq": 39,
+          "drb": 37,
+          "pss": 30,
+          "reb": 54,
+          "hgt": 50,
+          "fuzz": -0.058670754627129,
+          "ovr": 40,
+          "pos": "FC",
+          "pot": 56,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 250
+    },
+    {
+      "born": {
+        "year": 2036,
+        "loc": "Mississippi"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 64,
+        "ovr": 45,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.97,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#5c3937"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.1
+        },
+        "head": {
+          "id": "head6",
+          "shave": "rgba(0,0,0,0.18)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 0.55
+        },
+        "miscLine": {
+          "id": "chin1"
+        },
+        "facialHair": {
+          "id": "goatee2"
+        },
+        "eye": {
+          "id": "eye5",
+          "angle": -7
+        },
+        "eyebrow": {
+          "id": "eyebrow2",
+          "angle": -8
+        },
+        "hair": {
+          "id": "spike2",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "angry",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose2",
+          "flip": false,
+          "size": 0.64
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Monta",
+      "hgt": 75,
+      "imgURL": "https://www.basketball-reference.com/req/202011101/images/players/ellismo01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Ellis",
+      "pid": 7817,
+      "pos": "SG",
+      "ratings": [
+        {
+          "stre": 42,
+          "spd": 66,
+          "jmp": 62,
+          "endu": 52,
+          "ins": 38,
+          "dnk": 48,
+          "ft": 51,
+          "fg": 55,
+          "tp": 45,
+          "oiq": 40,
+          "diq": 32,
+          "drb": 58,
+          "pss": 53,
+          "reb": 42,
+          "hgt": 32,
+          "fuzz": 1.3252138978554922,
+          "ovr": 45,
+          "pos": "SG",
+          "pot": 64,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 185
+    },
+    {
+      "born": {
+        "year": 2035,
+        "loc": "Washington"
+      },
+      "college": "Washington",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 61,
+        "ovr": 45,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.44,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#5c3937"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.13
+        },
+        "head": {
+          "id": "head7",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line2"
+        },
+        "smileLine": {
+          "id": "line1",
+          "size": 1.13
+        },
+        "miscLine": {
+          "id": "forehead2"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye1",
+          "angle": 13
+        },
+        "eyebrow": {
+          "id": "eyebrow8",
+          "angle": 9
+        },
+        "hair": {
+          "id": "short2",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "side",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose2",
+          "flip": true,
+          "size": 0.82
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Nate",
+      "hgt": 69,
+      "imgURL": "https://www.basketball-reference.com/req/202011101/images/players/robinna01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Robinson",
+      "pid": 7818,
+      "ratings": [
+        {
+          "stre": 38,
+          "spd": 52,
+          "jmp": 74,
+          "endu": 55,
+          "ins": 42,
+          "dnk": 66,
+          "ft": 54,
+          "fg": 49,
+          "tp": 53,
+          "oiq": 46,
+          "diq": 34,
+          "drb": 62,
+          "pss": 52,
+          "reb": 44,
+          "hgt": 26,
+          "fuzz": -1.0116403210152423,
+          "ovr": 45,
+          "pos": "G",
+          "pot": 61,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 180
+    },
+    {
+      "born": {
+        "year": 2038,
+        "loc": "Latvia"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 62,
+        "ovr": 35,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.23,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ddb7a0"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.2
+        },
+        "head": {
+          "id": "head6",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line5"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.68
+        },
+        "miscLine": {
+          "id": "chin1"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye1",
+          "angle": 11
+        },
+        "eyebrow": {
+          "id": "eyebrow3",
+          "angle": -4
+        },
+        "hair": {
+          "id": "messy-short",
+          "color": "#e9c67b",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": false,
+          "size": 1.24
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "headband"
+        }
+      },
+      "firstName": "Andris",
+      "hgt": 83,
+      "imgURL": "https://www.basketball-reference.com/req/202011101/images/players/biedran01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Biedriņš",
+      "pid": 7819,
+      "ratings": [
+        {
+          "stre": 43,
+          "spd": 40,
+          "jmp": 44,
+          "endu": 46,
+          "ins": 38,
+          "dnk": 46,
+          "ft": 25,
+          "fg": 33,
+          "tp": 5,
+          "oiq": 34,
+          "diq": 35,
+          "drb": 38,
+          "pss": 32,
+          "reb": 52,
+          "hgt": 67,
+          "fuzz": 1.1540855210603898,
+          "ovr": 35,
+          "pos": "C",
+          "pot": 62,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 240
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Ukraine"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 52,
+        "ovr": 40,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.25,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#5c3937"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.98
+        },
+        "head": {
+          "id": "head7",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line1"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 1.33
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": 14
+        },
+        "eyebrow": {
+          "id": "eyebrow9",
+          "angle": -3
+        },
+        "hair": {
+          "id": "spike2",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile-closed",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": true,
+          "size": 0.85
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Viktor",
+      "hgt": 81,
+      "imgURL": "https://i.imgur.com/haBwOtS.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Khryapa",
+      "pid": 7820,
+      "pos": "F",
+      "ratings": [
+        {
+          "stre": 38,
+          "spd": 53,
+          "jmp": 42,
+          "endu": 50,
+          "ins": 36,
+          "dnk": 42,
+          "ft": 36,
+          "fg": 38,
+          "tp": 42,
+          "oiq": 30,
+          "diq": 41,
+          "drb": 34,
+          "pss": 37,
+          "reb": 51,
+          "hgt": 58,
+          "fuzz": -0.618053127139439,
+          "ovr": 40,
+          "pos": "F",
+          "pot": 52,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 210
+    },
+    {
+      "born": {
+        "year": 2033,
+        "loc": "Pennsylvania"
+      },
+      "college": "Syracuse",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 56,
+        "ovr": 44,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.21,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#74453d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 1.18
+        },
+        "head": {
+          "id": "head5",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line1"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.17
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye1",
+          "angle": -4
+        },
+        "eyebrow": {
+          "id": "eyebrow11",
+          "angle": -14
+        },
+        "hair": {
+          "id": "spike",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "closed",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": true,
+          "size": 0.81
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Hakim",
+      "hgt": 81,
+      "imgURL": "https://www.basketball-reference.com/req/202012251/images/players/warriha01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Warrick",
+      "pid": 7821,
+      "pos": "F",
+      "ratings": [
+        {
+          "stre": 52,
+          "spd": 48,
+          "jmp": 49,
+          "endu": 54,
+          "ins": 52,
+          "dnk": 57,
+          "ft": 43,
+          "fg": 37,
+          "tp": 31,
+          "oiq": 35,
+          "diq": 34,
+          "drb": 45,
+          "pss": 42,
+          "reb": 52,
+          "hgt": 60,
+          "fuzz": -0.6217289705492649,
+          "ovr": 44,
+          "pos": "F",
+          "pot": 56,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 219
+    },
+    {
+      "born": {
+        "year": 2036,
+        "loc": "Louisiana"
+      },
+      "college": "LSU",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 65,
+        "ovr": 40,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.72,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#aa816f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 0.97
+        },
+        "head": {
+          "id": "head1",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line1"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.09
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye5",
+          "angle": 0
+        },
+        "eyebrow": {
+          "id": "eyebrow3",
+          "angle": 9
+        },
+        "hair": {
+          "id": "short-bald",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "closed",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": false,
+          "size": 1.18
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Brandon",
+      "hgt": 80,
+      "imgURL": "https://www.basketball-reference.com/req/202011101/images/players/bassbr01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Bass",
+      "pid": 7822,
+      "ratings": [
+        {
+          "stre": 52,
+          "spd": 48,
+          "jmp": 48,
+          "endu": 50,
+          "ins": 45,
+          "dnk": 53,
+          "ft": 60,
+          "fg": 36,
+          "tp": 32,
+          "oiq": 33,
+          "diq": 36,
+          "drb": 41,
+          "pss": 33,
+          "reb": 54,
+          "hgt": 52,
+          "fuzz": 0.2779407340173203,
+          "ovr": 40,
+          "pos": "PF",
+          "pot": 65,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 250
+    },
+    {
+      "born": {
+        "year": 2038,
+        "loc": "California"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 68,
+        "ovr": 36,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.05,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ddb7a0"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.84
+        },
+        "head": {
+          "id": "head5",
+          "shave": "rgba(0,0,0,0.04)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line3",
+          "size": 0.91
+        },
+        "miscLine": {
+          "id": "forehead4"
+        },
+        "facialHair": {
+          "id": "soul-stache"
+        },
+        "eye": {
+          "id": "eye1",
+          "angle": -1
+        },
+        "eyebrow": {
+          "id": "eyebrow8",
+          "angle": -10
+        },
+        "hair": {
+          "id": "bald",
+          "color": "#2C1608",
+          "flip": true
+        },
+        "mouth": {
+          "id": "straight",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": true,
+          "size": 0.74
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Amir",
+      "hgt": 81,
+      "imgURL": "https://www.basketball-reference.com/req/202012011/images/players/johnsam01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Johnson",
+      "pid": 7823,
+      "pos": "FC",
+      "ratings": [
+        {
+          "stre": 49,
+          "spd": 43,
+          "jmp": 51,
+          "endu": 53,
+          "ins": 48,
+          "dnk": 43,
+          "ft": 38,
+          "fg": 38,
+          "tp": 37,
+          "oiq": 29,
+          "diq": 35,
+          "drb": 37,
+          "pss": 31,
+          "reb": 50,
+          "hgt": 53,
+          "fuzz": 0.06170371225695258,
+          "ovr": 36,
+          "pos": "FC",
+          "pot": 68,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 240
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "New York"
+      },
+      "college": "Arizona State",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 57,
+        "ovr": 41,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.66,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#5c3937"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.16
+        },
+        "head": {
+          "id": "head1",
+          "shave": "rgba(0,0,0,0.05)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.22
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": -6
+        },
+        "eyebrow": {
+          "id": "eyebrow12",
+          "angle": 18
+        },
+        "hair": {
+          "id": "spike4",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "angry",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose2",
+          "flip": false,
+          "size": 1.18
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "headband-high"
+        }
+      },
+      "firstName": "Ike",
+      "hgt": 80,
+      "imgURL": "https://www.basketball-reference.com/req/202101021/images/players/dioguik01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Diogu",
+      "pid": 7824,
+      "pos": "PF",
+      "ratings": [
+        {
+          "stre": 60,
+          "spd": 48,
+          "jmp": 48,
+          "endu": 54,
+          "ins": 63,
+          "dnk": 65,
+          "ft": 52,
+          "fg": 41,
+          "tp": 10,
+          "oiq": 39,
+          "diq": 32,
+          "drb": 30,
+          "pss": 31,
+          "reb": 53,
+          "hgt": 62,
+          "fuzz": -0.5722231583179876,
+          "ovr": 41,
+          "pos": "PF",
+          "pot": 57,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 250
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "New York"
+      },
+      "college": "Arizona",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 60,
+        "ovr": 51,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.05,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#74453d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.93
+        },
+        "head": {
+          "id": "head6",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line4"
+        },
+        "smileLine": {
+          "id": "line1",
+          "size": 1.23
+        },
+        "miscLine": {
+          "id": "forehead1"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": 0
+        },
+        "eyebrow": {
+          "id": "eyebrow7",
+          "angle": -1
+        },
+        "hair": {
+          "id": "parted",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": true,
+          "size": 1.18
+        },
+        "glasses": {
+          "id": "glasses1-primary"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Channing",
+      "hgt": 84,
+      "imgURL": "https://www.basketball-reference.com/req/202011191/images/players/fryech01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Frye",
+      "pid": 7825,
+      "pos": "FC",
+      "ratings": [
+        {
+          "stre": 47,
+          "spd": 48,
+          "jmp": 49,
+          "endu": 55,
+          "ins": 57,
+          "dnk": 61,
+          "ft": 58,
+          "fg": 49,
+          "tp": 55,
+          "oiq": 42,
+          "diq": 34,
+          "drb": 42,
+          "pss": 40,
+          "reb": 46,
+          "hgt": 63,
+          "fuzz": -1.9999999999999998,
+          "ovr": 51,
+          "pos": "FC",
+          "pot": 60,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 255
+    },
+    {
+      "born": {
+        "year": 2038,
+        "loc": "New Jersey"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 64,
+        "ovr": 35,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.39,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#5c3937"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 0.81
+        },
+        "head": {
+          "id": "head4",
+          "shave": "rgba(0,0,0,0.13)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 0.57
+        },
+        "miscLine": {
+          "id": "chin2"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye3",
+          "angle": 11
+        },
+        "eyebrow": {
+          "id": "eyebrow10",
+          "angle": 10
+        },
+        "hair": {
+          "id": "short2",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "mouth",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose2",
+          "flip": true,
+          "size": 0.77
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Andrew",
+      "hgt": 84,
+      "imgURL": "https://www.basketball-reference.com/req/202011191/images/players/bynuman01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Bynum",
+      "pid": 7826,
+      "ratings": [
+        {
+          "stre": 49,
+          "spd": 46,
+          "jmp": 48,
+          "endu": 43,
+          "ins": 42,
+          "dnk": 51,
+          "ft": 40,
+          "fg": 32,
+          "tp": 23,
+          "oiq": 26,
+          "diq": 27,
+          "drb": 38,
+          "pss": 34,
+          "reb": 48,
+          "hgt": 66,
+          "fuzz": -0.20823134638391222,
+          "ovr": 35,
+          "pos": "C",
+          "pot": 64,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 285
+    },
+    {
+      "born": {
+        "year": 2036,
+        "loc": "Louisiana"
+      },
+      "college": "Florida State",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 57,
+        "ovr": 33,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.83,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#a67358"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 1.24
+        },
+        "head": {
+          "id": "head4",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.67
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "beard2"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": 11
+        },
+        "eyebrow": {
+          "id": "eyebrow6",
+          "angle": 5
+        },
+        "hair": {
+          "id": "spike2",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose8",
+          "flip": true,
+          "size": 0.59
+        },
+        "glasses": {
+          "id": "facemask"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Von",
+      "hgt": 77,
+      "imgURL": "https://www.basketball-reference.com/req/202101021/images/players/wafervo01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Wafer",
+      "pid": 7827,
+      "pos": "GF",
+      "ratings": [
+        {
+          "stre": 31,
+          "spd": 47,
+          "jmp": 47,
+          "endu": 51,
+          "ins": 41,
+          "dnk": 46,
+          "ft": 48,
+          "fg": 47,
+          "tp": 46,
+          "oiq": 31,
+          "diq": 28,
+          "drb": 42,
+          "pss": 33,
+          "reb": 46,
+          "hgt": 45,
+          "fuzz": 1.7438219885675565,
+          "ovr": 33,
+          "pos": "GF",
+          "pot": 57,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 210
+    },
+    {
+      "born": {
+        "year": 2033,
+        "loc": "New York"
+      },
+      "college": "Texas",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 52,
+        "ovr": 42,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.59,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ce967d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.21
+        },
+        "head": {
+          "id": "head2",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line1"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.08
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye2",
+          "angle": -2
+        },
+        "eyebrow": {
+          "id": "eyebrow9",
+          "angle": -3
+        },
+        "hair": {
+          "id": "curly",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "side",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": true,
+          "size": 1.23
+        },
+        "glasses": {
+          "id": "glasses1-primary"
+        },
+        "accessories": {
+          "id": "headband"
+        }
+      },
+      "firstName": "Royal",
+      "hgt": 75,
+      "imgURL": "https://www.basketball-reference.com/req/202101021/images/players/iveyro01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Ivey",
+      "pid": 7828,
+      "ratings": [
+        {
+          "stre": 38,
+          "spd": 55,
+          "jmp": 51,
+          "endu": 54,
+          "ins": 35,
+          "dnk": 36,
+          "ft": 41,
+          "fg": 40,
+          "tp": 53,
+          "oiq": 36,
+          "diq": 39,
+          "drb": 62,
+          "pss": 49,
+          "reb": 29,
+          "hgt": 37,
+          "fuzz": -0.5578693633763486,
+          "ovr": 42,
+          "pos": "G",
+          "pot": 52,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 200
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Tennessee"
+      },
+      "college": "Colarado",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 50,
+        "ovr": 35,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.87,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ad6453"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.16
+        },
+        "head": {
+          "id": "head6",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line4"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.11
+        },
+        "miscLine": {
+          "id": "forehead4"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": 3
+        },
+        "eyebrow": {
+          "id": "eyebrow8",
+          "angle": -3
+        },
+        "hair": {
+          "id": "short3",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "angry",
+          "flip": true
+        },
+        "nose": {
+          "id": "honker",
+          "flip": true,
+          "size": 1.08
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "David",
+      "hgt": 84,
+      "imgURL": "https://i.imgur.com/Cruqa0V.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Harrison",
+      "pid": 7829,
+      "pos": "C",
+      "ratings": [
+        {
+          "stre": 56,
+          "spd": 43,
+          "jmp": 43,
+          "endu": 50,
+          "ins": 51,
+          "dnk": 60,
+          "ft": 27,
+          "fg": 23,
+          "tp": 5,
+          "oiq": 25,
+          "diq": 31,
+          "drb": 32,
+          "pss": 29,
+          "reb": 46,
+          "hgt": 73,
+          "fuzz": 0.8675784726061874,
+          "ovr": 35,
+          "pos": "C",
+          "pot": 50,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 840
+    },
+    {
+      "born": {
+        "year": 2036,
+        "loc": "New York"
+      },
+      "college": "Pitt",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 52,
+        "ovr": 28,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.76,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#a67358"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.95
+        },
+        "head": {
+          "id": "head1",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line2"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 1.27
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "goatee6"
+        },
+        "eye": {
+          "id": "eye4",
+          "angle": 4
+        },
+        "eyebrow": {
+          "id": "eyebrow12",
+          "angle": -3
+        },
+        "hair": {
+          "id": "short2",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose5",
+          "flip": true,
+          "size": 0.98
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Chris",
+      "hgt": 82,
+      "imgURL": "https://i.imgur.com/64SuNn0.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Taft",
+      "pid": 7830,
+      "pos": "C",
+      "ratings": [
+        {
+          "stre": 44,
+          "spd": 37,
+          "jmp": 45,
+          "endu": 40,
+          "ins": 33,
+          "dnk": 45,
+          "ft": 15,
+          "fg": 36,
+          "tp": 5,
+          "oiq": 32,
+          "diq": 30,
+          "drb": 25,
+          "pss": 23,
+          "reb": 43,
+          "hgt": 61,
+          "fuzz": -1.0470798668549768,
+          "ovr": 28,
+          "pos": "C",
+          "pot": 52,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 260
+    },
+    {
+      "born": {
+        "year": 2037,
+        "loc": "USA"
+      },
+      "college": "Kentucky",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 46,
+        "ovr": 22,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.8,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#bb876f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.05
+        },
+        "head": {
+          "id": "head5",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 1.28
+        },
+        "miscLine": {
+          "id": "forehead1"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye3",
+          "angle": 13
+        },
+        "eyebrow": {
+          "id": "eyebrow2",
+          "angle": -10
+        },
+        "hair": {
+          "id": "short",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "straight",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose2",
+          "flip": false,
+          "size": 0.66
+        },
+        "glasses": {
+          "id": "glasses1-secondary"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Seth",
+      "hgt": 77,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Aikens",
+      "pid": 7831,
+      "ratings": [
+        {
+          "stre": 44,
+          "spd": 44,
+          "jmp": 40,
+          "endu": 18,
+          "ins": 31,
+          "dnk": 44,
+          "ft": 28,
+          "fg": 30,
+          "tp": 34,
+          "oiq": 21,
+          "diq": 21,
+          "drb": 33,
+          "pss": 34,
+          "reb": 48,
+          "hgt": 36,
+          "fuzz": -0.38377388947505503,
+          "ovr": 22,
+          "pos": "SG",
+          "pot": 46,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 231
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Kansas"
+      },
+      "college": "Kansas",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 50,
+        "ovr": 34,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.25,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ddb7a0"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 0.78
+        },
+        "head": {
+          "id": "head6",
+          "shave": "rgba(0,0,0,0.1)"
+        },
+        "eyeLine": {
+          "id": "line4"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 1.41
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": 12
+        },
+        "eyebrow": {
+          "id": "eyebrow1",
+          "angle": 18
+        },
+        "hair": {
+          "id": "hair",
+          "color": "#5A3825",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": true
+        },
+        "nose": {
+          "id": "honker",
+          "flip": true,
+          "size": 1.16
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Wayne",
+      "hgt": 81,
+      "imgURL": "https://i.imgur.com/TNmLrFe.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Simien",
+      "pid": 7832,
+      "pos": "PF",
+      "ratings": [
+        {
+          "stre": 41,
+          "spd": 41,
+          "jmp": 38,
+          "endu": 50,
+          "ins": 50,
+          "dnk": 53,
+          "ft": 61,
+          "fg": 45,
+          "tp": 5,
+          "oiq": 37,
+          "diq": 35,
+          "drb": 34,
+          "pss": 40,
+          "reb": 50,
+          "hgt": 54,
+          "fuzz": 1.107416838524802,
+          "ovr": 34,
+          "pos": "PF",
+          "pot": 50,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 255
+    },
+    {
+      "born": {
+        "year": 2037,
+        "loc": "New York"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 55,
+        "ovr": 30,
+        "skills": [
+          "B"
+        ]
+      },
+      "face": {
+        "fatness": 0.37,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#bb876f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 1.18
+        },
+        "head": {
+          "id": "head4",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.43
+        },
+        "miscLine": {
+          "id": "forehead4"
+        },
+        "facialHair": {
+          "id": "handlebar"
+        },
+        "eye": {
+          "id": "eye6",
+          "angle": -5
+        },
+        "eyebrow": {
+          "id": "eyebrow4",
+          "angle": 9
+        },
+        "hair": {
+          "id": "high",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "mouth",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose4",
+          "flip": false,
+          "size": 0.8
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Sebastian",
+      "hgt": 72,
+      "imgURL": "https://www.basketball-reference.com/req/202101021/images/players/telfase01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Telfair",
+      "pid": 7833,
+      "pos": "PG",
+      "ratings": [
+        {
+          "stre": 16,
+          "spd": 64,
+          "jmp": 49,
+          "endu": 53,
+          "ins": 24,
+          "dnk": 40,
+          "ft": 51,
+          "fg": 51,
+          "tp": 45,
+          "oiq": 27,
+          "diq": 14,
+          "drb": 73,
+          "pss": 55,
+          "reb": 25,
+          "hgt": 24,
+          "fuzz": -0.5031543669378679,
+          "ovr": 30,
+          "pos": "PG",
+          "pot": 55,
+          "season": 2056,
+          "skills": [
+            "B"
+          ]
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 165
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Texas"
+      },
+      "college": "Connecticut",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 61,
+        "ovr": 51,
+        "skills": [
+          "Di",
+          "R"
+        ]
+      },
+      "face": {
+        "fatness": 0.26,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#a67358"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.17
+        },
+        "head": {
+          "id": "head5",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line2"
+        },
+        "smileLine": {
+          "id": "line4",
+          "size": 0.75
+        },
+        "miscLine": {
+          "id": "chin1"
+        },
+        "facialHair": {
+          "id": "goatee6"
+        },
+        "eye": {
+          "id": "eye8",
+          "angle": 9
+        },
+        "eyebrow": {
+          "id": "eyebrow10",
+          "angle": -10
+        },
+        "hair": {
+          "id": "bald",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "straight",
+          "flip": false
+        },
+        "nose": {
+          "id": "honker",
+          "flip": false,
+          "size": 1.06
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Emeka",
+      "hgt": 82,
+      "imgURL": "https://www.basketball-reference.com/req/202011101/images/players/okafoem01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Okafor",
+      "pid": 7834,
+      "pos": "FC",
+      "ratings": [
+        {
+          "stre": 67,
+          "spd": 47,
+          "jmp": 56,
+          "endu": 45,
+          "ins": 58,
+          "dnk": 64,
+          "ft": 32,
+          "fg": 39,
+          "tp": 5,
+          "oiq": 45,
+          "diq": 52,
+          "drb": 41,
+          "pss": 29,
+          "reb": 72,
+          "hgt": 65,
+          "fuzz": 1.0992822935513233,
+          "ovr": 51,
+          "pos": "FC",
+          "pot": 61,
+          "season": 2056,
+          "skills": [
+            "Di",
+            "R"
+          ]
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 252
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Mississippi"
+      },
+      "college": "Ole Miss",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 48,
+        "ovr": 32,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.12,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ce967d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.91
+        },
+        "head": {
+          "id": "head8",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line6"
+        },
+        "smileLine": {
+          "id": "line1",
+          "size": 1.2
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "goatee8"
+        },
+        "eye": {
+          "id": "eye4",
+          "angle": 7
+        },
+        "eyebrow": {
+          "id": "eyebrow12",
+          "angle": -14
+        },
+        "hair": {
+          "id": "short-fade",
+          "color": "#423125",
+          "flip": true
+        },
+        "mouth": {
+          "id": "angry",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose3",
+          "flip": true,
+          "size": 0.72
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Justin",
+      "hgt": 80,
+      "imgURL": "https://i.imgur.com/aBSglyk.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Reed",
+      "pid": 7835,
+      "pos": "F",
+      "ratings": [
+        {
+          "stre": 41,
+          "spd": 43,
+          "jmp": 42,
+          "endu": 46,
+          "ins": 37,
+          "dnk": 46,
+          "ft": 48,
+          "fg": 41,
+          "tp": 5,
+          "oiq": 36,
+          "diq": 32,
+          "drb": 42,
+          "pss": 42,
+          "reb": 46,
+          "hgt": 48,
+          "fuzz": 0.8981836257010721,
+          "ovr": 32,
+          "pos": "F",
+          "pot": 48,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 240
+    },
+    {
+      "born": {
+        "year": 2035,
+        "loc": "California"
+      },
+      "college": "Nevada",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 59,
+        "ovr": 40,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.9,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ad6453"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 0.78
+        },
+        "head": {
+          "id": "head3",
+          "shave": "rgba(0,0,0,0.14)"
+        },
+        "eyeLine": {
+          "id": "line5"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 0.67
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "goatee5"
+        },
+        "eye": {
+          "id": "eye4",
+          "angle": -7
+        },
+        "eyebrow": {
+          "id": "eyebrow3",
+          "angle": -1
+        },
+        "hair": {
+          "id": "spike3",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile",
+          "flip": true
+        },
+        "nose": {
+          "id": "pinocchio",
+          "flip": true,
+          "size": 0.57
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Kirk",
+      "hgt": 78,
+      "imgURL": "https://i.imgur.com/GpVyY56.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Snyder",
+      "pid": 7836,
+      "pos": "GF",
+      "ratings": [
+        {
+          "stre": 49,
+          "spd": 48,
+          "jmp": 51,
+          "endu": 50,
+          "ins": 48,
+          "dnk": 53,
+          "ft": 40,
+          "fg": 44,
+          "tp": 46,
+          "oiq": 33,
+          "diq": 33,
+          "drb": 38,
+          "pss": 43,
+          "reb": 40,
+          "hgt": 48,
+          "fuzz": -1.3150124898094433,
+          "ovr": 40,
+          "pos": "GF",
+          "pot": 59,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 225
+    },
+    {
+      "born": {
+        "year": 2035,
+        "loc": "Illinois"
+      },
+      "college": "North Carolina",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 56,
+        "ovr": 38,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.42,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#f2d6cb"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.07
+        },
+        "head": {
+          "id": "head3",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line3",
+          "size": 1.23
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": 9
+        },
+        "eyebrow": {
+          "id": "eyebrow9",
+          "angle": -11
+        },
+        "hair": {
+          "id": "spike2",
+          "color": "#B55239",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile2",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose8",
+          "flip": true,
+          "size": 0.96
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Sean",
+      "hgt": 81,
+      "imgURL": "https://i.imgur.com/jnsxn2w.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "May",
+      "pid": 7837,
+      "pos": "FC",
+      "ratings": [
+        {
+          "stre": 47,
+          "spd": 40,
+          "jmp": 44,
+          "endu": 51,
+          "ins": 59,
+          "dnk": 57,
+          "ft": 47,
+          "fg": 36,
+          "tp": 34,
+          "oiq": 32,
+          "diq": 36,
+          "drb": 29,
+          "pss": 37,
+          "reb": 62,
+          "hgt": 57,
+          "fuzz": -0.35935178759550673,
+          "ovr": 38,
+          "pos": "FC",
+          "pot": 56,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 266
+    },
+    {
+      "born": {
+        "year": 2035,
+        "loc": "California"
+      },
+      "college": "Stanford",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 60,
+        "ovr": 44,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.84,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ddb7a0"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 0.98
+        },
+        "head": {
+          "id": "head3",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "line4",
+          "size": 0.69
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "goatee7"
+        },
+        "eye": {
+          "id": "eye5",
+          "angle": 9
+        },
+        "eyebrow": {
+          "id": "eyebrow7",
+          "angle": 18
+        },
+        "hair": {
+          "id": "faux-hawk",
+          "color": "#CC9966",
+          "flip": false
+        },
+        "mouth": {
+          "id": "side",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose8",
+          "flip": false,
+          "size": 1.18
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Josh",
+      "hgt": 80,
+      "imgURL": "https://www.basketball-reference.com/req/202012011/images/players/childjo01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Childress",
+      "pid": 7838,
+      "pos": "GF",
+      "ratings": [
+        {
+          "stre": 36,
+          "spd": 53,
+          "jmp": 50,
+          "endu": 47,
+          "ins": 35,
+          "dnk": 52,
+          "ft": 51,
+          "fg": 46,
+          "tp": 46,
+          "oiq": 42,
+          "diq": 38,
+          "drb": 46,
+          "pss": 41,
+          "reb": 51,
+          "hgt": 50,
+          "fuzz": -0.274295485285966,
+          "ovr": 44,
+          "pos": "GF",
+          "pot": 60,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 210
+    },
+    {
+      "born": {
+        "year": 2036,
+        "loc": "USA"
+      },
+      "college": "Arizona",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 39,
+        "ovr": 20,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.19,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#aa816f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.88
+        },
+        "head": {
+          "id": "head1",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line1"
+        },
+        "smileLine": {
+          "id": "line3",
+          "size": 0.73
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "goatee1"
+        },
+        "eye": {
+          "id": "eye5",
+          "angle": 0
+        },
+        "eyebrow": {
+          "id": "eyebrow8",
+          "angle": -13
+        },
+        "hair": {
+          "id": "messy-short",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": false,
+          "size": 0.9
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Robbie",
+      "hgt": 73,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Hopkins",
+      "pid": 7839,
+      "ratings": [
+        {
+          "stre": 27,
+          "spd": 43,
+          "jmp": 45,
+          "endu": 40,
+          "ins": 26,
+          "dnk": 26,
+          "ft": 60,
+          "fg": 49,
+          "tp": 47,
+          "oiq": 24,
+          "diq": 15,
+          "drb": 27,
+          "pss": 24,
+          "reb": 21,
+          "hgt": 26,
+          "fuzz": 0.1931553120403788,
+          "ovr": 20,
+          "pos": "G",
+          "pot": 39,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 192
+    },
+    {
+      "born": {
+        "year": 2037,
+        "loc": "Georgia"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 69,
+        "ovr": 47,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.16,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#a67358"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.05
+        },
+        "head": {
+          "id": "head3",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.21
+        },
+        "miscLine": {
+          "id": "forehead2"
+        },
+        "facialHair": {
+          "id": "goatee5"
+        },
+        "eye": {
+          "id": "eye1",
+          "angle": -6
+        },
+        "eyebrow": {
+          "id": "eyebrow7",
+          "angle": 7
+        },
+        "hair": {
+          "id": "spike4",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile-closed",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose8",
+          "flip": false,
+          "size": 0.56
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Josh",
+      "hgt": 81,
+      "imgURL": "https://www.basketball-reference.com/req/202011101/images/players/smithjo03.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Smith",
+      "pid": 7840,
+      "pos": "F",
+      "ratings": [
+        {
+          "stre": 41,
+          "spd": 51,
+          "jmp": 65,
+          "endu": 50,
+          "ins": 30,
+          "dnk": 62,
+          "ft": 34,
+          "fg": 40,
+          "tp": 40,
+          "oiq": 31,
+          "diq": 38,
+          "drb": 41,
+          "pss": 42,
+          "reb": 54,
+          "hgt": 66,
+          "fuzz": -0.7083154435564287,
+          "ovr": 47,
+          "pos": "F",
+          "pot": 69,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 225
+    },
+    {
+      "born": {
+        "year": 2032,
+        "loc": "Brazil"
+      },
+      "college": "BYU",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 46,
+        "ovr": 35,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.01,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#a67358"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.75
+        },
+        "head": {
+          "id": "head5",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line4",
+          "size": 0.85
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "mustache-thin"
+        },
+        "eye": {
+          "id": "eye1",
+          "angle": 4
+        },
+        "eyebrow": {
+          "id": "eyebrow8",
+          "angle": -6
+        },
+        "hair": {
+          "id": "juice",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "closed",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose4",
+          "flip": false,
+          "size": 0.97
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Rafael",
+      "hgt": 83,
+      "imgURL": "https://i.imgur.com/K6lMpJ2.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Araújo",
+      "pid": 7841,
+      "pos": "C",
+      "ratings": [
+        {
+          "stre": 48,
+          "spd": 31,
+          "jmp": 33,
+          "endu": 45,
+          "ins": 51,
+          "dnk": 44,
+          "ft": 38,
+          "fg": 30,
+          "tp": 26,
+          "oiq": 31,
+          "diq": 38,
+          "drb": 35,
+          "pss": 31,
+          "reb": 55,
+          "hgt": 67,
+          "fuzz": 0.5075833970206548,
+          "ovr": 35,
+          "pos": "C",
+          "pot": 46,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 280
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Pennsylvania"
+      },
+      "college": "Saint Joseph's",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 63,
+        "ovr": 50,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.16,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#5c3937"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 1.17
+        },
+        "head": {
+          "id": "head2",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.6
+        },
+        "miscLine": {
+          "id": "chin2"
+        },
+        "facialHair": {
+          "id": "goatee1-stache"
+        },
+        "eye": {
+          "id": "eye1",
+          "angle": 3
+        },
+        "eyebrow": {
+          "id": "eyebrow4",
+          "angle": 15
+        },
+        "hair": {
+          "id": "parted",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": false,
+          "size": 1.11
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Jameer",
+      "hgt": 72,
+      "imgURL": "https://www.basketball-reference.com/req/202011101/images/players/nelsoja01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Nelson",
+      "pid": 7842,
+      "ratings": [
+        {
+          "stre": 43,
+          "spd": 57,
+          "jmp": 53,
+          "endu": 51,
+          "ins": 46,
+          "dnk": 44,
+          "ft": 56,
+          "fg": 60,
+          "tp": 54,
+          "oiq": 48,
+          "diq": 42,
+          "drb": 67,
+          "pss": 62,
+          "reb": 43,
+          "hgt": 30,
+          "fuzz": -0.39825231264330213,
+          "ovr": 50,
+          "pos": "PG",
+          "pot": 63,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 190
+    },
+    {
+      "born": {
+        "year": 2037,
+        "loc": "Mississippi"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 69,
+        "ovr": 49,
+        "skills": [
+          "Po"
+        ]
+      },
+      "face": {
+        "fatness": 0.99,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#a67358"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.09
+        },
+        "head": {
+          "id": "head4",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line4"
+        },
+        "smileLine": {
+          "id": "line3",
+          "size": 0.71
+        },
+        "miscLine": {
+          "id": "forehead2"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye4",
+          "angle": 12
+        },
+        "eyebrow": {
+          "id": "eyebrow3",
+          "angle": -5
+        },
+        "hair": {
+          "id": "messy",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "angry",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": true,
+          "size": 0.71
+        },
+        "glasses": {
+          "id": "glasses2-secondary"
+        },
+        "accessories": {
+          "id": "headband-high"
+        }
+      },
+      "firstName": "Al",
+      "hgt": 82,
+      "imgURL": "https://www.basketball-reference.com/req/202011101/images/players/jeffeal01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Jefferson",
+      "pid": 7843,
+      "pos": "FC",
+      "ratings": [
+        {
+          "stre": 64,
+          "spd": 43,
+          "jmp": 47,
+          "endu": 52,
+          "ins": 65,
+          "dnk": 57,
+          "ft": 42,
+          "fg": 38,
+          "tp": 25,
+          "oiq": 37,
+          "diq": 41,
+          "drb": 38,
+          "pss": 35,
+          "reb": 58,
+          "hgt": 71,
+          "fuzz": 0.20054171754898403,
+          "ovr": 49,
+          "pos": "FC",
+          "pot": 69,
+          "season": 2056,
+          "skills": [
+            "Po"
+          ]
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 289
+    },
+    {
+      "born": {
+        "year": 2036,
+        "loc": "USA"
+      },
+      "college": "Southeast Missouri State",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 41,
+        "ovr": 19,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.51,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#5c3937"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 0.97
+        },
+        "head": {
+          "id": "head5",
+          "shave": "rgba(0,0,0,0.04)"
+        },
+        "eyeLine": {
+          "id": "line6"
+        },
+        "smileLine": {
+          "id": "line3",
+          "size": 1.32
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye9",
+          "angle": -2
+        },
+        "eyebrow": {
+          "id": "eyebrow9",
+          "angle": 17
+        },
+        "hair": {
+          "id": "short",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "straight",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose8",
+          "flip": false,
+          "size": 0.59
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "James",
+      "hgt": 85,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Yazzie",
+      "pid": 7844,
+      "ratings": [
+        {
+          "stre": 38,
+          "spd": 30,
+          "jmp": 25,
+          "endu": 21,
+          "ins": 24,
+          "dnk": 33,
+          "ft": 25,
+          "fg": 22,
+          "tp": 23,
+          "oiq": 14,
+          "diq": 13,
+          "drb": 22,
+          "pss": 19,
+          "reb": 27,
+          "hgt": 70,
+          "fuzz": -1.9999999999999998,
+          "ovr": 19,
+          "pos": "C",
+          "pot": 41,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 256
+    },
+    {
+      "born": {
+        "year": 2035,
+        "loc": "North Carolina"
+      },
+      "college": "North Carolina",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 55,
+        "ovr": 37,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.9,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#a67358"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 0.96
+        },
+        "head": {
+          "id": "head5",
+          "shave": "rgba(0,0,0,0.03)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line3",
+          "size": 1.26
+        },
+        "miscLine": {
+          "id": "forehead4"
+        },
+        "facialHair": {
+          "id": "goatee4"
+        },
+        "eye": {
+          "id": "eye8",
+          "angle": -2
+        },
+        "eyebrow": {
+          "id": "eyebrow8",
+          "angle": 0
+        },
+        "hair": {
+          "id": "messy-short",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "mouth",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose2",
+          "flip": false,
+          "size": 0.58
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Rashad",
+      "hgt": 76,
+      "imgURL": "https://i.imgur.com/K9acgkE.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "McCants",
+      "pid": 7845,
+      "pos": "SG",
+      "ratings": [
+        {
+          "stre": 34,
+          "spd": 43,
+          "jmp": 45,
+          "endu": 50,
+          "ins": 38,
+          "dnk": 54,
+          "ft": 46,
+          "fg": 63,
+          "tp": 54,
+          "oiq": 38,
+          "diq": 30,
+          "drb": 51,
+          "pss": 46,
+          "reb": 38,
+          "hgt": 42,
+          "fuzz": -1.253134284861224,
+          "ovr": 37,
+          "pos": "SG",
+          "pot": 55,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 207
+    },
+    {
+      "born": {
+        "year": 2033,
+        "loc": "Oregon"
+      },
+      "college": "Oregon",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 48,
+        "ovr": 39,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.53,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#f2d6cb"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.76
+        },
+        "head": {
+          "id": "head2",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line2"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.87
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "mustache-thin"
+        },
+        "eye": {
+          "id": "eye8",
+          "angle": 13
+        },
+        "eyebrow": {
+          "id": "eyebrow1",
+          "angle": 3
+        },
+        "hair": {
+          "id": "spike3",
+          "color": "#2C1608",
+          "flip": false
+        },
+        "mouth": {
+          "id": "closed",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose5",
+          "flip": false,
+          "size": 1.22
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Luke",
+      "hgt": 79,
+      "imgURL": "https://www.basketball-reference.com/req/202101021/images/players/jackslu02.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Jackson",
+      "pid": 7846,
+      "pos": "SF",
+      "ratings": [
+        {
+          "stre": 38,
+          "spd": 54,
+          "jmp": 51,
+          "endu": 50,
+          "ins": 42,
+          "dnk": 44,
+          "ft": 44,
+          "fg": 43,
+          "tp": 53,
+          "oiq": 34,
+          "diq": 29,
+          "drb": 38,
+          "pss": 44,
+          "reb": 46,
+          "hgt": 47,
+          "fuzz": 0.6163359402690308,
+          "ovr": 39,
+          "pos": "SF",
+          "pot": 48,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 215
+    },
+    {
+      "born": {
+        "year": 2033,
+        "loc": "Oregon"
+      },
+      "college": "Arizona",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 52,
+        "ovr": 41,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.38,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ad6453"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.78
+        },
+        "head": {
+          "id": "head3",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 1.01
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "handlebar"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": 10
+        },
+        "eyebrow": {
+          "id": "eyebrow7",
+          "angle": 17
+        },
+        "hair": {
+          "id": "crop",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile-closed",
+          "flip": false
+        },
+        "nose": {
+          "id": "pinocchio",
+          "flip": false,
+          "size": 1
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Salim",
+      "hgt": 73,
+      "imgURL": "https://i.imgur.com/3u0ScKW.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Stoudamire",
+      "pid": 7847,
+      "pos": "G",
+      "ratings": [
+        {
+          "stre": 28,
+          "spd": 58,
+          "jmp": 48,
+          "endu": 51,
+          "ins": 45,
+          "dnk": 47,
+          "ft": 66,
+          "fg": 63,
+          "tp": 54,
+          "oiq": 44,
+          "diq": 34,
+          "drb": 54,
+          "pss": 47,
+          "reb": 41,
+          "hgt": 31,
+          "fuzz": 1.5346914767908564,
+          "ovr": 41,
+          "pos": "G",
+          "pot": 52,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 179
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Brazil"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 61,
+        "ovr": 51,
+        "skills": [
+          "Di",
+          "R"
+        ]
+      },
+      "face": {
+        "fatness": 0.85,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#f2d6cb"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.99
+        },
+        "head": {
+          "id": "head4",
+          "shave": "rgba(0,0,0,0.18)"
+        },
+        "eyeLine": {
+          "id": "line5"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 0.8
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye5",
+          "angle": -2
+        },
+        "eyebrow": {
+          "id": "eyebrow12",
+          "angle": -7
+        },
+        "hair": {
+          "id": "messy-short",
+          "color": "#5A3825",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": true,
+          "size": 1.07
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Anderson",
+      "hgt": 82,
+      "imgURL": "https://www.basketball-reference.com/req/202011101/images/players/varejan01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Varejão",
+      "pid": 7848,
+      "pos": "FC",
+      "ratings": [
+        {
+          "stre": 58,
+          "spd": 45,
+          "jmp": 44,
+          "endu": 50,
+          "ins": 46,
+          "dnk": 55,
+          "ft": 34,
+          "fg": 31,
+          "tp": 15,
+          "oiq": 41,
+          "diq": 55,
+          "drb": 47,
+          "pss": 42,
+          "reb": 64,
+          "hgt": 66,
+          "fuzz": -0.6540490351253777,
+          "ovr": 51,
+          "pos": "FC",
+          "pot": 61,
+          "season": 2056,
+          "skills": [
+            "Di",
+            "R"
+          ]
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 273
+    },
+    {
+      "born": {
+        "year": 2037,
+        "loc": "Washington"
+      },
+      "college": "North Carolina",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 66,
+        "ovr": 44,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.07,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#74453d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.14
+        },
+        "head": {
+          "id": "head1",
+          "shave": "rgba(0,0,0,0.18)"
+        },
+        "eyeLine": {
+          "id": "line1"
+        },
+        "smileLine": {
+          "id": "line4",
+          "size": 1.03
+        },
+        "miscLine": {
+          "id": "forehead3"
+        },
+        "facialHair": {
+          "id": "honest-abe-stache"
+        },
+        "eye": {
+          "id": "eye4",
+          "angle": 15
+        },
+        "eyebrow": {
+          "id": "eyebrow4",
+          "angle": 17
+        },
+        "hair": {
+          "id": "crop-fade",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "side",
+          "flip": true
+        },
+        "nose": {
+          "id": "honker",
+          "flip": true,
+          "size": 0.98
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Marvin",
+      "hgt": 80,
+      "imgURL": "https://www.basketball-reference.com/req/202012011/images/players/willima02.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Williams",
+      "pid": 7849,
+      "pos": "F",
+      "ratings": [
+        {
+          "stre": 43,
+          "spd": 52,
+          "jmp": 50,
+          "endu": 54,
+          "ins": 43,
+          "dnk": 51,
+          "ft": 55,
+          "fg": 42,
+          "tp": 53,
+          "oiq": 33,
+          "diq": 38,
+          "drb": 42,
+          "pss": 34,
+          "reb": 48,
+          "hgt": 53,
+          "fuzz": 0.274215208132535,
+          "ovr": 44,
+          "pos": "F",
+          "pot": 66,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 237
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Maryland"
+      },
+      "college": "Georgia Tech",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 60,
+        "ovr": 49,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.59,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#5c3937"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 1.12
+        },
+        "head": {
+          "id": "head2",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.03
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": 7
+        },
+        "eyebrow": {
+          "id": "eyebrow1",
+          "angle": -2
+        },
+        "hair": {
+          "id": "high",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose6",
+          "flip": false,
+          "size": 1.23
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Jarrett",
+      "hgt": 75,
+      "imgURL": "https://www.basketball-reference.com/req/202011101/images/players/jackja01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Jack",
+      "pid": 7850,
+      "ratings": [
+        {
+          "stre": 37,
+          "spd": 64,
+          "jmp": 56,
+          "endu": 58,
+          "ins": 37,
+          "dnk": 42,
+          "ft": 64,
+          "fg": 50,
+          "tp": 50,
+          "oiq": 45,
+          "diq": 36,
+          "drb": 69,
+          "pss": 55,
+          "reb": 41,
+          "hgt": 34,
+          "fuzz": 1.3374637047076792,
+          "ovr": 49,
+          "pos": "PG",
+          "pot": 60,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 200
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Florida"
+      },
+      "college": "Duke",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 50,
+        "ovr": 33,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.05,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#74453d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.84
+        },
+        "head": {
+          "id": "head4",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "line1",
+          "size": 0.85
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "goatee1-stache"
+        },
+        "eye": {
+          "id": "eye1",
+          "angle": 0
+        },
+        "eyebrow": {
+          "id": "eyebrow5",
+          "angle": -7
+        },
+        "hair": {
+          "id": "faux-hawk",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "closed",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose2",
+          "flip": false,
+          "size": 1.11
+        },
+        "glasses": {
+          "id": "glasses1-secondary"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Daniel",
+      "hgt": 75,
+      "imgURL": "https://i.imgur.com/Cowb3h6.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Ewing",
+      "pid": 7851,
+      "ratings": [
+        {
+          "stre": 20,
+          "spd": 52,
+          "jmp": 50,
+          "endu": 51,
+          "ins": 27,
+          "dnk": 31,
+          "ft": 52,
+          "fg": 48,
+          "tp": 42,
+          "oiq": 31,
+          "diq": 35,
+          "drb": 53,
+          "pss": 43,
+          "reb": 36,
+          "hgt": 33,
+          "fuzz": 0.8409596825035209,
+          "ovr": 33,
+          "pos": "G",
+          "pot": 50,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 185
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Missouri"
+      },
+      "college": "Florida",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 66,
+        "ovr": 55,
+        "skills": [
+          "R"
+        ]
+      },
+      "face": {
+        "fatness": 0.95,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#bb876f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.1
+        },
+        "head": {
+          "id": "head8",
+          "shave": "rgba(0,0,0,0.14)"
+        },
+        "eyeLine": {
+          "id": "line5"
+        },
+        "smileLine": {
+          "id": "line3",
+          "size": 0.54
+        },
+        "miscLine": {
+          "id": "forehead2"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye4",
+          "angle": 12
+        },
+        "eyebrow": {
+          "id": "eyebrow9",
+          "angle": -3
+        },
+        "hair": {
+          "id": "short-bald",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile-closed",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose2",
+          "flip": false,
+          "size": 0.73
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "headband"
+        }
+      },
+      "firstName": "David",
+      "hgt": 81,
+      "imgURL": "https://www.basketball-reference.com/req/202011191/images/players/leeda02.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Lee",
+      "pid": 7852,
+      "pos": "FC",
+      "ratings": [
+        {
+          "stre": 59,
+          "spd": 50,
+          "jmp": 59,
+          "endu": 53,
+          "ins": 56,
+          "dnk": 63,
+          "ft": 51,
+          "fg": 42,
+          "tp": 16,
+          "oiq": 49,
+          "diq": 47,
+          "drb": 52,
+          "pss": 39,
+          "reb": 69,
+          "hgt": 62,
+          "fuzz": 0.36526750944676717,
+          "ovr": 55,
+          "pos": "FC",
+          "pot": 66,
+          "season": 2056,
+          "skills": [
+            "R"
+          ]
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 245
+    },
+    {
+      "born": {
+        "year": 2035,
+        "loc": "California"
+      },
+      "college": "Texas A&M",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 50,
+        "ovr": 35,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.36,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ddb7a0"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 1.15
+        },
+        "head": {
+          "id": "head1",
+          "shave": "rgba(0,0,0,0.01)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.69
+        },
+        "miscLine": {
+          "id": "forehead1"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye1",
+          "angle": 14
+        },
+        "eyebrow": {
+          "id": "eyebrow8",
+          "angle": -3
+        },
+        "hair": {
+          "id": "dreads",
+          "color": "#CC9966",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile2",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose8",
+          "flip": false,
+          "size": 0.68
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Antoine",
+      "hgt": 75,
+      "imgURL": "https://www.basketball-reference.com/req/202101021/images/players/wrighan01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Wright",
+      "pid": 7853,
+      "pos": "GF",
+      "ratings": [
+        {
+          "stre": 34,
+          "spd": 58,
+          "jmp": 59,
+          "endu": 50,
+          "ins": 32,
+          "dnk": 43,
+          "ft": 38,
+          "fg": 41,
+          "tp": 43,
+          "oiq": 27,
+          "diq": 24,
+          "drb": 44,
+          "pss": 40,
+          "reb": 36,
+          "hgt": 47,
+          "fuzz": 0.06911147689719009,
+          "ovr": 35,
+          "pos": "GF",
+          "pot": 50,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 210
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Slovenia"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 60,
+        "ovr": 45,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.43,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ce967d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.19
+        },
+        "head": {
+          "id": "head1",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line6"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 1.46
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye8",
+          "angle": -5
+        },
+        "eyebrow": {
+          "id": "eyebrow7",
+          "angle": 18
+        },
+        "hair": {
+          "id": "messy-short",
+          "color": "#423125",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile2",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose5",
+          "flip": true,
+          "size": 1.11
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Beno",
+      "hgt": 75,
+      "imgURL": "https://www.basketball-reference.com/req/202011191/images/players/udrihbe01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Udrih",
+      "pid": 7854,
+      "pos": "G",
+      "ratings": [
+        {
+          "stre": 44,
+          "spd": 61,
+          "jmp": 52,
+          "endu": 56,
+          "ins": 35,
+          "dnk": 35,
+          "ft": 60,
+          "fg": 58,
+          "tp": 51,
+          "oiq": 39,
+          "diq": 32,
+          "drb": 66,
+          "pss": 60,
+          "reb": 37,
+          "hgt": 32,
+          "fuzz": -0.6782061376458713,
+          "ovr": 45,
+          "pos": "G",
+          "pot": 60,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 205
+    },
+    {
+      "born": {
+        "year": 2037,
+        "loc": "South Korea"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 46,
+        "ovr": 27,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.41,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#bb876f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.9
+        },
+        "head": {
+          "id": "head2",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line6"
+        },
+        "smileLine": {
+          "id": "line3",
+          "size": 0.72
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye2",
+          "angle": -6
+        },
+        "eyebrow": {
+          "id": "eyebrow11",
+          "angle": -7
+        },
+        "hair": {
+          "id": "spike",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile2",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose5",
+          "flip": false,
+          "size": 1.13
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Ha",
+      "hgt": 87,
+      "imgURL": "https://i.imgur.com/Mfe0iLO.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Seung-Jin",
+      "pid": 7855,
+      "ratings": [
+        {
+          "stre": 41,
+          "spd": 32,
+          "jmp": 32,
+          "endu": 40,
+          "ins": 39,
+          "dnk": 41,
+          "ft": 25,
+          "fg": 24,
+          "tp": 5,
+          "oiq": 21,
+          "diq": 23,
+          "drb": 29,
+          "pss": 29,
+          "reb": 43,
+          "hgt": 75,
+          "fuzz": -0.07845522311048246,
+          "ovr": 27,
+          "pos": "C",
+          "pot": 46,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 305
+    },
+    {
+      "born": {
+        "year": 2035,
+        "loc": "United Kingdom"
+      },
+      "college": "Connecticut",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 60,
+        "ovr": 47,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.62,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#a67358"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.13
+        },
+        "head": {
+          "id": "head2",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.12
+        },
+        "miscLine": {
+          "id": "forehead2"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye8",
+          "angle": 0
+        },
+        "eyebrow": {
+          "id": "eyebrow9",
+          "angle": -15
+        },
+        "hair": {
+          "id": "faux-hawk",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "side",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": false,
+          "size": 0.56
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Ben",
+      "hgt": 75,
+      "imgURL": "https://www.basketball-reference.com/req/202011101/images/players/gordobe01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Gordon",
+      "pid": 7856,
+      "pos": "SG",
+      "ratings": [
+        {
+          "stre": 31,
+          "spd": 61,
+          "jmp": 63,
+          "endu": 48,
+          "ins": 31,
+          "dnk": 61,
+          "ft": 64,
+          "fg": 68,
+          "tp": 60,
+          "oiq": 44,
+          "diq": 36,
+          "drb": 51,
+          "pss": 46,
+          "reb": 37,
+          "hgt": 38,
+          "fuzz": -0.015618640869237584,
+          "ovr": 47,
+          "pos": "SG",
+          "pot": 60,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 200
+    },
+    {
+      "born": {
+        "year": 2033,
+        "loc": "Texas"
+      },
+      "college": "Mississippi State",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 52,
+        "ovr": 39,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.51,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#bb876f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.96
+        },
+        "head": {
+          "id": "head5",
+          "shave": "rgba(0,0,0,0.12)"
+        },
+        "eyeLine": {
+          "id": "line6"
+        },
+        "smileLine": {
+          "id": "line4",
+          "size": 0.55
+        },
+        "miscLine": {
+          "id": "forehead5"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye4",
+          "angle": 6
+        },
+        "eyebrow": {
+          "id": "eyebrow6",
+          "angle": 13
+        },
+        "hair": {
+          "id": "dreads",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose8",
+          "flip": false,
+          "size": 0.85
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Lawrence",
+      "hgt": 81,
+      "imgURL": "https://i.imgur.com/O4vbsSp.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Roberts",
+      "pid": 7857,
+      "pos": "FC",
+      "ratings": [
+        {
+          "stre": 51,
+          "spd": 38,
+          "jmp": 42,
+          "endu": 50,
+          "ins": 42,
+          "dnk": 54,
+          "ft": 39,
+          "fg": 38,
+          "tp": 5,
+          "oiq": 43,
+          "diq": 48,
+          "drb": 30,
+          "pss": 34,
+          "reb": 58,
+          "hgt": 58,
+          "fuzz": 0.8440417108672665,
+          "ovr": 39,
+          "pos": "FC",
+          "pot": 52,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 240
+    },
+    {
+      "born": {
+        "year": 2035,
+        "loc": "USA"
+      },
+      "college": "Oklahoma",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 39,
+        "ovr": 19,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.61,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ce967d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.94
+        },
+        "head": {
+          "id": "head7",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line2"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.25
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "handlebar"
+        },
+        "eye": {
+          "id": "eye1",
+          "angle": -1
+        },
+        "eyebrow": {
+          "id": "eyebrow10",
+          "angle": -8
+        },
+        "hair": {
+          "id": "crop-fade",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile-closed",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose8",
+          "flip": false,
+          "size": 0.82
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Quincy",
+      "hgt": 75,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Adams",
+      "pid": 7858,
+      "ratings": [
+        {
+          "stre": 41,
+          "spd": 41,
+          "jmp": 37,
+          "endu": 27,
+          "ins": 45,
+          "dnk": 40,
+          "ft": 24,
+          "fg": 23,
+          "tp": 26,
+          "oiq": 16,
+          "diq": 21,
+          "drb": 23,
+          "pss": 32,
+          "reb": 38,
+          "hgt": 36,
+          "fuzz": 0.13366795070515589,
+          "ovr": 19,
+          "pos": "SG",
+          "pot": 39,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 220
+    },
+    {
+      "born": {
+        "year": 2037,
+        "loc": "California"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 60,
+        "ovr": 35,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.83,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#a67358"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.93
+        },
+        "head": {
+          "id": "head1",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line5"
+        },
+        "smileLine": {
+          "id": "line1",
+          "size": 1.1
+        },
+        "miscLine": {
+          "id": "chin2"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye3",
+          "angle": -3
+        },
+        "eyebrow": {
+          "id": "eyebrow4",
+          "angle": -3
+        },
+        "hair": {
+          "id": "short-bald",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "straight",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose3",
+          "flip": false,
+          "size": 0.51
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Dorell",
+      "hgt": 81,
+      "imgURL": "https://www.basketball-reference.com/req/202011191/images/players/wrighdo01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Wright",
+      "pid": 7859,
+      "pos": "GF",
+      "ratings": [
+        {
+          "stre": 32,
+          "spd": 51,
+          "jmp": 43,
+          "endu": 50,
+          "ins": 35,
+          "dnk": 41,
+          "ft": 55,
+          "fg": 43,
+          "tp": 54,
+          "oiq": 32,
+          "diq": 28,
+          "drb": 41,
+          "pss": 39,
+          "reb": 42,
+          "hgt": 44,
+          "fuzz": -0.02439532085822859,
+          "ovr": 35,
+          "pos": "GF",
+          "pot": 60,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 205
+    },
+    {
+      "born": {
+        "year": 2033,
+        "loc": "Illinois"
+      },
+      "college": "Illinois",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 55,
+        "ovr": 43,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.02,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ce967d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.16
+        },
+        "head": {
+          "id": "head6",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line5"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.95
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "mustache1"
+        },
+        "eye": {
+          "id": "eye3",
+          "angle": 7
+        },
+        "eyebrow": {
+          "id": "eyebrow1",
+          "angle": -2
+        },
+        "hair": {
+          "id": "bald",
+          "color": "#423125",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": false
+        },
+        "nose": {
+          "id": "pinocchio",
+          "flip": false,
+          "size": 0.52
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Luther",
+      "hgt": 75,
+      "imgURL": "https://www.basketball-reference.com/req/202012251/images/players/headlu01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Head",
+      "pid": 7860,
+      "pos": "G",
+      "ratings": [
+        {
+          "stre": 38,
+          "spd": 59,
+          "jmp": 55,
+          "endu": 53,
+          "ins": 31,
+          "dnk": 47,
+          "ft": 51,
+          "fg": 62,
+          "tp": 55,
+          "oiq": 38,
+          "diq": 35,
+          "drb": 62,
+          "pss": 45,
+          "reb": 38,
+          "hgt": 33,
+          "fuzz": -1.3782162273148668,
+          "ovr": 43,
+          "pos": "G",
+          "pot": 55,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 185
+    },
+    {
+      "born": {
+        "year": 2032,
+        "loc": "Dominican Republic"
+      },
+      "college": "Louisville",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 58,
+        "ovr": 49,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.93,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#5c3937"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.82
+        },
+        "head": {
+          "id": "head4",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.16
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "goatee2"
+        },
+        "eye": {
+          "id": "eye6",
+          "angle": -2
+        },
+        "eyebrow": {
+          "id": "eyebrow11",
+          "angle": -11
+        },
+        "hair": {
+          "id": "short2",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "side",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose5",
+          "flip": true,
+          "size": 1.23
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Francisco",
+      "hgt": 79,
+      "imgURL": "https://www.basketball-reference.com/req/202012251/images/players/garcifr01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "García",
+      "pid": 7861,
+      "pos": "GF",
+      "ratings": [
+        {
+          "stre": 48,
+          "spd": 53,
+          "jmp": 55,
+          "endu": 52,
+          "ins": 35,
+          "dnk": 47,
+          "ft": 55,
+          "fg": 52,
+          "tp": 52,
+          "oiq": 42,
+          "diq": 39,
+          "drb": 50,
+          "pss": 42,
+          "reb": 44,
+          "hgt": 50,
+          "fuzz": -1.7768041525022256,
+          "ovr": 49,
+          "pos": "GF",
+          "pot": 58,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 195
+    },
+    {
+      "born": {
+        "year": 2037,
+        "loc": "California"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 57,
+        "ovr": 31,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.04,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#5c3937"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.76
+        },
+        "head": {
+          "id": "head3",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "line1",
+          "size": 1.16
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "mustache1"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": 0
+        },
+        "eyebrow": {
+          "id": "eyebrow7",
+          "angle": -5
+        },
+        "hair": {
+          "id": "middle-part",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "angry",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose3",
+          "flip": false,
+          "size": 0.57
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Robert",
+      "hgt": 84,
+      "imgURL": "https://i.imgur.com/6z9OjrU.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Swift",
+      "pid": 7862,
+      "pos": "C",
+      "ratings": [
+        {
+          "stre": 43,
+          "spd": 36,
+          "jmp": 36,
+          "endu": 50,
+          "ins": 36,
+          "dnk": 45,
+          "ft": 33,
+          "fg": 37,
+          "tp": 5,
+          "oiq": 31,
+          "diq": 31,
+          "drb": 34,
+          "pss": 30,
+          "reb": 39,
+          "hgt": 66,
+          "fuzz": -0.34297105431324043,
+          "ovr": 31,
+          "pos": "C",
+          "pot": 57,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 245
+    },
+    {
+      "born": {
+        "year": 2035,
+        "loc": "West Virginia"
+      },
+      "college": "Illinois",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 71,
+        "ovr": 54,
+        "skills": [
+          "Ps"
+        ]
+      },
+      "face": {
+        "fatness": 0.14,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#aa816f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.14
+        },
+        "head": {
+          "id": "head4",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line1"
+        },
+        "smileLine": {
+          "id": "line1",
+          "size": 1.03
+        },
+        "miscLine": {
+          "id": "forehead2"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye5",
+          "angle": -2
+        },
+        "eyebrow": {
+          "id": "eyebrow9",
+          "angle": 20
+        },
+        "hair": {
+          "id": "crop-fade",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile2",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": true,
+          "size": 0.89
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Deron",
+      "hgt": 75,
+      "imgURL": "https://www.basketball-reference.com/req/202011101/images/players/willide01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Williams",
+      "pid": 7863,
+      "pos": "PG",
+      "ratings": [
+        {
+          "stre": 45,
+          "spd": 64,
+          "jmp": 69,
+          "endu": 51,
+          "ins": 40,
+          "dnk": 49,
+          "ft": 57,
+          "fg": 65,
+          "tp": 52,
+          "oiq": 46,
+          "diq": 35,
+          "drb": 72,
+          "pss": 74,
+          "reb": 44,
+          "hgt": 34,
+          "fuzz": -0.48554643221919525,
+          "ovr": 54,
+          "pos": "PG",
+          "pot": 71,
+          "season": 2056,
+          "skills": [
+            "Ps"
+          ]
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 200
+    },
+    {
+      "born": {
+        "year": 2035,
+        "loc": "USA"
+      },
+      "college": "Vanderbilt",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 37,
+        "ovr": 25,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.22,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#f2d6cb"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 1.22
+        },
+        "head": {
+          "id": "head5",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.11
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye9",
+          "angle": -1
+        },
+        "eyebrow": {
+          "id": "eyebrow1",
+          "angle": 13
+        },
+        "hair": {
+          "id": "crop-fade",
+          "color": "#e9c67b",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile-closed",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": true,
+          "size": 0.88
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "D.J.",
+      "hgt": 76,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Williams",
+      "pid": 7864,
+      "ratings": [
+        {
+          "stre": 29,
+          "spd": 52,
+          "jmp": 49,
+          "endu": 17,
+          "ins": 25,
+          "dnk": 40,
+          "ft": 22,
+          "fg": 21,
+          "tp": 17,
+          "oiq": 36,
+          "diq": 22,
+          "drb": 49,
+          "pss": 38,
+          "reb": 37,
+          "hgt": 38,
+          "fuzz": -0.442589085627751,
+          "ovr": 25,
+          "pos": "SG",
+          "pot": 37,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 199
+    },
+    {
+      "born": {
+        "year": 2033,
+        "loc": "Senegal"
+      },
+      "college": "Cal State Fullerton",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 52,
+        "ovr": 40,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.75,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#bb876f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.76
+        },
+        "head": {
+          "id": "head4",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "line3",
+          "size": 1.31
+        },
+        "miscLine": {
+          "id": "forehead1"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye7",
+          "angle": 4
+        },
+        "eyebrow": {
+          "id": "eyebrow8",
+          "angle": -7
+        },
+        "hair": {
+          "id": "short2",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "straight",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose2",
+          "flip": true,
+          "size": 0.87
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "headband-high"
+        }
+      },
+      "firstName": "Pape",
+      "hgt": 82,
+      "imgURL": "https://i.imgur.com/DLCsOqu.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Sow",
+      "pid": 7865,
+      "ratings": [
+        {
+          "stre": 53,
+          "spd": 43,
+          "jmp": 46,
+          "endu": 48,
+          "ins": 42,
+          "dnk": 54,
+          "ft": 38,
+          "fg": 37,
+          "tp": 5,
+          "oiq": 37,
+          "diq": 47,
+          "drb": 32,
+          "pss": 37,
+          "reb": 53,
+          "hgt": 61,
+          "fuzz": 0.7285484050272241,
+          "ovr": 40,
+          "pos": "C",
+          "pot": 52,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 250
+    },
+    {
+      "born": {
+        "year": 2035,
+        "loc": "USA"
+      },
+      "college": "Minnesota",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 44,
+        "ovr": 26,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.94,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ce967d"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 0.88
+        },
+        "head": {
+          "id": "head5",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line4"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.17
+        },
+        "miscLine": {
+          "id": "forehead5"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye3",
+          "angle": 9
+        },
+        "eyebrow": {
+          "id": "eyebrow10",
+          "angle": 12
+        },
+        "hair": {
+          "id": "messy",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose2",
+          "flip": true,
+          "size": 0.78
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Roy",
+      "hgt": 79,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Evans",
+      "pid": 7866,
+      "ratings": [
+        {
+          "stre": 25,
+          "spd": 47,
+          "jmp": 45,
+          "endu": 27,
+          "ins": 28,
+          "dnk": 27,
+          "ft": 30,
+          "fg": 33,
+          "tp": 41,
+          "oiq": 26,
+          "diq": 26,
+          "drb": 43,
+          "pss": 32,
+          "reb": 30,
+          "hgt": 44,
+          "fuzz": -0.7991392998787917,
+          "ovr": 26,
+          "pos": "SF",
+          "pot": 44,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 226
+    },
+    {
+      "born": {
+        "year": 2035,
+        "loc": "Ohio"
+      },
+      "college": "Western Carolina",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 65,
+        "ovr": 51,
+        "skills": [
+          "3"
+        ]
+      },
+      "face": {
+        "fatness": 0.78,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#a67358"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 0.84
+        },
+        "head": {
+          "id": "head5",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line5"
+        },
+        "smileLine": {
+          "id": "line3",
+          "size": 1.48
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "goatee5"
+        },
+        "eye": {
+          "id": "eye3",
+          "angle": -2
+        },
+        "eyebrow": {
+          "id": "eyebrow1",
+          "angle": 18
+        },
+        "hair": {
+          "id": "crop",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "mouth",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose1",
+          "flip": true,
+          "size": 0.65
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Kevin",
+      "hgt": 79,
+      "imgURL": "https://www.basketball-reference.com/req/202011101/images/players/martike02.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Martin",
+      "pid": 7867,
+      "pos": "SG",
+      "ratings": [
+        {
+          "stre": 38,
+          "spd": 62,
+          "jmp": 59,
+          "endu": 53,
+          "ins": 37,
+          "dnk": 53,
+          "ft": 64,
+          "fg": 52,
+          "tp": 63,
+          "oiq": 43,
+          "diq": 34,
+          "drb": 49,
+          "pss": 36,
+          "reb": 39,
+          "hgt": 52,
+          "fuzz": -0.657690301236474,
+          "ovr": 51,
+          "pos": "SG",
+          "pot": 65,
+          "season": 2056,
+          "skills": [
+            "3"
+          ]
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 199
+    },
+    {
+      "born": {
+        "year": 2037,
+        "loc": "Washington"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 61,
+        "ovr": 35,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.81,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#5c3937"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.95
+        },
+        "head": {
+          "id": "head8",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.74
+        },
+        "miscLine": {
+          "id": "forehead1"
+        },
+        "facialHair": {
+          "id": "beard2"
+        },
+        "eye": {
+          "id": "eye1",
+          "angle": 5
+        },
+        "eyebrow": {
+          "id": "eyebrow6",
+          "angle": 10
+        },
+        "hair": {
+          "id": "crop-fade",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "mouth",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose3",
+          "flip": false,
+          "size": 1.2
+        },
+        "glasses": {
+          "id": "glasses2-primary"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Martell",
+      "hgt": 79,
+      "imgURL": "https://www.basketball-reference.com/req/202012011/images/players/webstma02.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Webster",
+      "pid": 7868,
+      "pos": "SF",
+      "ratings": [
+        {
+          "stre": 32,
+          "spd": 57,
+          "jmp": 57,
+          "endu": 50,
+          "ins": 22,
+          "dnk": 36,
+          "ft": 54,
+          "fg": 50,
+          "tp": 55,
+          "oiq": 28,
+          "diq": 23,
+          "drb": 41,
+          "pss": 31,
+          "reb": 39,
+          "hgt": 49,
+          "fuzz": -0.005684526930407774,
+          "ovr": 35,
+          "pos": "SF",
+          "pot": 61,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 230
+    },
+    {
+      "born": {
+        "year": 2036,
+        "loc": "Lithuania"
+      },
+      "college": "Missouri",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 57,
+        "ovr": 37,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.99,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#5c3937"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 0.77
+        },
+        "head": {
+          "id": "head6",
+          "shave": "rgba(0,0,0,0.18)"
+        },
+        "eyeLine": {
+          "id": "line5"
+        },
+        "smileLine": {
+          "id": "line2",
+          "size": 1.16
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "beard1"
+        },
+        "eye": {
+          "id": "eye4",
+          "angle": 10
+        },
+        "eyebrow": {
+          "id": "eyebrow11",
+          "angle": 19
+        },
+        "hair": {
+          "id": "short3",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile2",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose4",
+          "flip": true,
+          "size": 1.08
+        },
+        "glasses": {
+          "id": "glasses2-primary"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Linas",
+      "hgt": 80,
+      "imgURL": "https://www.basketball-reference.com/req/202101021/images/players/kleizli01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Kleiza",
+      "pid": 7869,
+      "pos": "F",
+      "ratings": [
+        {
+          "stre": 43,
+          "spd": 46,
+          "jmp": 44,
+          "endu": 52,
+          "ins": 43,
+          "dnk": 57,
+          "ft": 50,
+          "fg": 46,
+          "tp": 47,
+          "oiq": 33,
+          "diq": 26,
+          "drb": 33,
+          "pss": 36,
+          "reb": 45,
+          "hgt": 57,
+          "fuzz": 0.48205173839652676,
+          "ovr": 37,
+          "pos": "F",
+          "pot": 57,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 245
+    },
+    {
+      "born": {
+        "year": 2036,
+        "loc": "Slovenia"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 60,
+        "ovr": 39,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.01,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#aa816f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear3",
+          "size": 0.76
+        },
+        "head": {
+          "id": "head7",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.14
+        },
+        "miscLine": {
+          "id": "forehead2"
+        },
+        "facialHair": {
+          "id": "handlebar"
+        },
+        "eye": {
+          "id": "eye9",
+          "angle": -9
+        },
+        "eyebrow": {
+          "id": "eyebrow12",
+          "angle": -1
+        },
+        "hair": {
+          "id": "messy",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": true,
+          "size": 1
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Sasha",
+      "hgt": 79,
+      "imgURL": "https://www.basketball-reference.com/req/202012251/images/players/vujacsa01.jpg",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Vujačić",
+      "pid": 7870,
+      "pos": "G",
+      "ratings": [
+        {
+          "stre": 31,
+          "spd": 49,
+          "jmp": 46,
+          "endu": 50,
+          "ins": 26,
+          "dnk": 28,
+          "ft": 62,
+          "fg": 52,
+          "tp": 54,
+          "oiq": 39,
+          "diq": 30,
+          "drb": 52,
+          "pss": 45,
+          "reb": 38,
+          "hgt": 47,
+          "fuzz": 0.9617780036023572,
+          "ovr": 39,
+          "pos": "G",
+          "pot": 60,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 195
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "USA"
+      },
+      "college": "Long Beach State",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 40,
+        "ovr": 29,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.69,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#a67358"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear1",
+          "size": 1.16
+        },
+        "head": {
+          "id": "head8",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line1"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.04
+        },
+        "miscLine": {
+          "id": "forehead2"
+        },
+        "facialHair": {
+          "id": "beard2"
+        },
+        "eye": {
+          "id": "eye3",
+          "angle": 8
+        },
+        "eyebrow": {
+          "id": "eyebrow1",
+          "angle": 1
+        },
+        "hair": {
+          "id": "high",
+          "color": "#272421",
+          "flip": false
+        },
+        "mouth": {
+          "id": "closed",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": false,
+          "size": 0.67
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "headband-high"
+        }
+      },
+      "firstName": "Nathan",
+      "hgt": 78,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Garvey",
+      "pid": 7871,
+      "ratings": [
+        {
+          "stre": 48,
+          "spd": 44,
+          "jmp": 47,
+          "endu": 40,
+          "ins": 54,
+          "dnk": 52,
+          "ft": 23,
+          "fg": 26,
+          "tp": 23,
+          "oiq": 30,
+          "diq": 26,
+          "drb": 25,
+          "pss": 26,
+          "reb": 37,
+          "hgt": 48,
+          "fuzz": 0.08638572297093904,
+          "ovr": 29,
+          "pos": "SF",
+          "pot": 40,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 210
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "USA"
+      },
+      "college": "Fresno State",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 43,
+        "ovr": 29,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.72,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#5c3937"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.13
+        },
+        "head": {
+          "id": "head6",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line2"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 1.07
+        },
+        "miscLine": {
+          "id": "forehead2"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye4",
+          "angle": 1
+        },
+        "eyebrow": {
+          "id": "eyebrow8",
+          "angle": -4
+        },
+        "hair": {
+          "id": "juice",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile-closed",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose2",
+          "flip": true,
+          "size": 0.98
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Mark",
+      "hgt": 75,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Watkins",
+      "pid": 7872,
+      "ratings": [
+        {
+          "stre": 35,
+          "spd": 51,
+          "jmp": 58,
+          "endu": 35,
+          "ins": 29,
+          "dnk": 37,
+          "ft": 31,
+          "fg": 21,
+          "tp": 27,
+          "oiq": 33,
+          "diq": 31,
+          "drb": 40,
+          "pss": 32,
+          "reb": 30,
+          "hgt": 36,
+          "fuzz": 1.2990815469747357,
+          "ovr": 29,
+          "pos": "SG",
+          "pot": 43,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 212
+    },
+    {
+      "born": {
+        "year": 2035,
+        "loc": "Kentucky"
+      },
+      "college": "Southern Illinois College",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 50,
+        "ovr": 34,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.1,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#aa816f"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 0.91
+        },
+        "head": {
+          "id": "head3",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line3"
+        },
+        "smileLine": {
+          "id": "line1",
+          "size": 1.04
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "none"
+        },
+        "eye": {
+          "id": "eye3",
+          "angle": 3
+        },
+        "eyebrow": {
+          "id": "eyebrow8",
+          "angle": -2
+        },
+        "hair": {
+          "id": "faux-hawk",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile3",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose3",
+          "flip": true,
+          "size": 0.89
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Donta",
+      "hgt": 79,
+      "imgURL": "https://i.imgur.com/Nva99aR.png",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Smith",
+      "pid": 7873,
+      "ratings": [
+        {
+          "stre": 33,
+          "spd": 55,
+          "jmp": 43,
+          "endu": 46,
+          "ins": 35,
+          "dnk": 48,
+          "ft": 36,
+          "fg": 42,
+          "tp": 43,
+          "oiq": 25,
+          "diq": 28,
+          "drb": 39,
+          "pss": 44,
+          "reb": 45,
+          "hgt": 48,
+          "fuzz": -0.5885102932496915,
+          "ovr": 34,
+          "pos": "SG",
+          "pot": 50,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 215
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "Scotland"
+      },
+      "college": "",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 36,
+        "ovr": 22,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.47,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#ad6453"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.03
+        },
+        "head": {
+          "id": "head5",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "line2"
+        },
+        "smileLine": {
+          "id": "line1",
+          "size": 1.33
+        },
+        "miscLine": {
+          "id": "chin1"
+        },
+        "facialHair": {
+          "id": "mustache1"
+        },
+        "eye": {
+          "id": "eye6",
+          "angle": 3
+        },
+        "eyebrow": {
+          "id": "eyebrow2",
+          "angle": 8
+        },
+        "hair": {
+          "id": "juice",
+          "color": "#272421",
+          "flip": true
+        },
+        "mouth": {
+          "id": "smile",
+          "flip": true
+        },
+        "nose": {
+          "id": "nose7",
+          "flip": true,
+          "size": 0.75
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Kieron",
+      "hgt": 82,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "Achara",
+      "pid": 7874,
+      "ratings": [
+        {
+          "stre": 26,
+          "spd": 52,
+          "jmp": 47,
+          "endu": 29,
+          "ins": 23,
+          "dnk": 33,
+          "ft": 31,
+          "fg": 30,
+          "tp": 36,
+          "oiq": 14,
+          "diq": 17,
+          "drb": 18,
+          "pss": 18,
+          "reb": 12,
+          "hgt": 56,
+          "fuzz": 0.6113056053943712,
+          "ovr": 22,
+          "pos": "PF",
+          "pot": 36,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 211
+    },
+    {
+      "born": {
+        "year": 2034,
+        "loc": "USA"
+      },
+      "college": "Bradley",
+      "draft": {
+        "round": 0,
+        "pick": 0,
+        "tid": -1,
+        "originalTid": -1,
+        "year": 2056,
+        "pot": 43,
+        "ovr": 25,
+        "skills": []
+      },
+      "face": {
+        "fatness": 0.88,
+        "teamColors": [
+          "#0d435e",
+          "#f0494a",
+          "#cccccc"
+        ],
+        "body": {
+          "id": "body",
+          "color": "#f2d6cb"
+        },
+        "jersey": {
+          "id": "jersey3"
+        },
+        "ear": {
+          "id": "ear2",
+          "size": 1.06
+        },
+        "head": {
+          "id": "head4",
+          "shave": "rgba(0,0,0,0)"
+        },
+        "eyeLine": {
+          "id": "none"
+        },
+        "smileLine": {
+          "id": "none",
+          "size": 0.68
+        },
+        "miscLine": {
+          "id": "none"
+        },
+        "facialHair": {
+          "id": "mustache1"
+        },
+        "eye": {
+          "id": "eye6",
+          "angle": 1
+        },
+        "eyebrow": {
+          "id": "eyebrow11",
+          "angle": 6
+        },
+        "hair": {
+          "id": "juice",
+          "color": "#e9c67b",
+          "flip": false
+        },
+        "mouth": {
+          "id": "smile",
+          "flip": false
+        },
+        "nose": {
+          "id": "nose5",
+          "flip": false,
+          "size": 0.78
+        },
+        "glasses": {
+          "id": "none"
+        },
+        "accessories": {
+          "id": "none"
+        }
+      },
+      "firstName": "Brian",
+      "hgt": 81,
+      "imgURL": "",
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "injuries": [],
+      "lastName": "West",
+      "pid": 7875,
+      "ratings": [
+        {
+          "stre": 31,
+          "spd": 26,
+          "jmp": 28,
+          "endu": 33,
+          "ins": 13,
+          "dnk": 27,
+          "ft": 25,
+          "fg": 24,
+          "tp": 27,
+          "oiq": 30,
+          "diq": 34,
+          "drb": 31,
+          "pss": 31,
+          "reb": 52,
+          "hgt": 58,
+          "fuzz": -0.1506327228927242,
+          "ovr": 25,
+          "pos": "PF",
+          "pot": 43,
+          "season": 2056,
+          "skills": []
+        }
+      ],
+      "relatives": [],
+      "tid": -2,
+      "weight": 233
+    }
+  ],
+  "startingSeason": 2056
+}
